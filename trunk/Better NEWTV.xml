@@ -1,0 +1,1329 @@
+<?xml version="1.0" ?> 
+
+<channels>
+
+
+<channel>
+<name>Punjabi Channels</name>
+<thumbnail></thumbnail>
+<items>
+
+
+<item>
+<title>9x Tashan HQ</title>
+<link>rtmp://cdn.nwk.yupptv.tv/nwk playpath=etvpacific swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Mh1</title>
+<link>rtmpe://sakitv.net:1935/streams playpath=mh1.stream swfUrl=http://www.zonytvcom.info/you/src.swf live=true swfVfy=true timeout=15 token=9op0b5@7n1s5ip1 pageUrl=http://zonytvcom.info</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Brit asia</title>
+<link>rtmp://desitouch.tv/livetv playpath=britasia swfUrl=http://player.longtailvideo.com/player5.2.swf pageUrl=http://desitouchtv.com/player.php?app=live&play=zeepunjabi timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>PTC Punjabi HQ</title>
+<link>rtmp://cdn.nwk3.yupptv.tv/nwk3 playpath=ptcpunjabi swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail>http://deora.tv/images/ptc-punjabi-tv-live-streaming-channel-online-free.jpg</thumbnail>
+</item>
+
+<item>
+<title>PTC chakde HQ</title>
+<link>rtmp://cdn.nwk3.yupptv.tv/nwk3 playpath=chakdeptc swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/pp/ptc_chakde.png</thumbnail>
+</item>
+
+
+<item>
+<title>PTC News HQ</title>
+<link>rtmp://cdn.nwk1.yupptv.tv/nwk1 playpath=ptcnews swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail>http://deora.tv/images/ptc-news-online-streaming-channel-free-live-punjabi.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Alphaetc Punjabi HQ</title>
+<link>rtmp://cdn.nwk3.yupptv.tv/nwk3 playpath=etcpunjabi swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/b/b1/Alpha_ETC_Punjabi.PNG</thumbnail>
+</item>
+
+<item>
+<title>Zee punjabi</title>
+<link>rtmp://desitouch.tv/live playpath=zeepunjabi swfUrl=http://player.longtailvideo.com/player5.2.swf pageUrl=http://desitouchtv.com/player.php?app=live&play=zeepunjabi timeout=15</link>
+<thumbnail>http://desistreams.tv/images/zee_punjabi.png</thumbnail>
+</item>
+
+<item>
+<title>Zee punjabi uk HQ</title>
+<link>rtmp://5.63.147.140/uk playpath=zeepunjabiuk swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail></thumbnail>
+</item> 
+
+<item>
+<title>Get PunjabiHQ</title>
+<link>rtmp://cdn.nwk2.yupptv.tv/nwk2 playpath=channel9 swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail>http://kamaltv.webs.com/get%20punjabi.png</thumbnail>
+</item>
+
+
+<item>
+<title>Time tv HQ</title>
+<link>rtmp://live.wms.webverbosity.com:1935/liverepeater/ playpath=chardiklanew.stream swfUrl=http://webverbosity.com/iplayer.php?ch=chardika&id=mediaplayer pageUrl=http://webverbosity.com/iplayer.php?ch=chardika timeout=15</link>
+<thumbnail>http://kamaltv.webs.com/time%20tv.gif</thumbnail>
+</item>
+
+<item>
+<title>Sada</title>
+<link>rtmp://119.82.77.212/live playpath=sada swfUrl=http://www.xuuby.com/player/player4.swf pageUrl=http://www.xuuby.com/show.php?chname=axn&width=520&height=370&a=1 live=1 timeout=15</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sada_channel.jpg</thumbnail>
+</item>
+
+<item>
+<title>world punjabi tv</title>
+<link>rtmp://tv.hindiworldtv.com/live Playpath=pntv swfUrl=http://webverbosity.com/iplayer.php?ch=chardika&id=mediaplayer pageUrl=http://webverbosity.com/iplayer.php?ch=worldtvpunjabi timeout=15</link>
+<thumbnail>http://kamaltv.webs.com/punjabi-tv.gif</thumbnail>
+</item>
+
+<item>
+<title>GET punjabi tv</title>
+<link>rtmp://tv.hindiworldtv.com/live Playpath=getpnj swfUrl=http://webverbosity.com/iplayer.php?ch=chardika&id=mediaplayer pageUrl=http://webverbosity.com/iplayer.php?ch=worldtvpunjabi timeout=15</link>
+<thumbnail>http://i46.tinypic.com/206h7p5.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>7 Sea Usa</title>
+<link>rtmp://tv.hindiworldtv.com/live Playpath=7seadr swfUrl=http://webverbosity.com/iplayer.php?ch=chardika&id=mediaplayer pageUrl=http://webverbosity.com/iplayer.php?ch=worldtvpunjabi timeout=15</link>
+<thumbnail>http://i48.tinypic.com/v49rua.jpg</thumbnail>
+</item>
+
+<item>
+<title>Day and night news</title>
+<link>rtmp://live.wmncdn.net/dayandnightnewstv playpath=d9831ae07c63447f28a8c5fb835ed41e.sdp swfUrl=http://cdn.vdopia.com/swf/mediaplayer_v3.2.swf?24.90343504+367368 pageUrl=http://www.dayandnightnews.com/live-tv live=true timeout=15</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/dd/day_and_night_news.png</thumbnail>
+</item>
+
+
+<item>
+<title>Sikh Channel USA</title>
+<link>rtmp://tv.hindiworldtv.com/live playpath=sikhtvus swfUrl=http://webverbosity.com/iplayer.php?ch=chardika&id=mediaplayer pageUrl=http://webverbosity.com/iplayer.php?ch=worldtvpunjabi live=1 timeout=15</link>
+<thumbnail>http://www.sikhsiyasat.net/wp-content/uploads/Sikh_Channel-Logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>SikhChannel UK</title>
+<link>rtmp://fml.6329.edgecastcdn.net/206329 playpath=SikhChannel swfUrl=http://sikhchannel.tv/media/LiveStreaming.swf pageUrl=http://sikhchannel.tv/ live=true swfvfy=true timeout=20</link>
+<thumbnail>http://www.khalsasports.com/newsimages/advertiseSikhChannel.jpg</thumbnail>
+</item>
+
+<item>
+<title>Gurdwara Dashmesh centre Calgary</title>
+<link>rtmp://173.192.187.144:1935/dcg playpath=livestream swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf pageUrl=http://www.dashmesh.ca/ timeout=20</link>
+<thumnail>http://www.dashmesh.ca/sites/default/files/city_magazine_dashmesh_custom_logo.png</thumnail>
+</item>
+
+<item>
+<title>Akalmultimedia Ludhiana</title>
+<link>rtmp://akalmultimedia.net/live playpath=gdns-live swfurl=http://www.akalmultimedia.com/modules/mod_playerjr/player-licensed5.swf pageUrl="http://www.akalmultimedia.com/" timeout=20</link>
+<thumbnail>http://profile.ak.fbcdn.net/hprofile-ak-snc4/41395_1014083958_725_n.jpg</thumbnail>
+</item>
+
+<item>
+<title>Gurbani Tv EU</title>
+<link>rtmp://live.wms.webverbosity.com:1935/liverepeater/ playpath=verbositylive.stream swfUrl=http://webverbosity.com/app/player.swf pageUrl=http://webverbosity.com/gurbanitvonline.php timeout=20</link>
+<thumbnail>http://profile.ak.fbcdn.net/hprofile-ak-snc4/195782_211217345574410_534541_n.jpg</thumbnail>
+</item>
+
+<item>
+<title>BBS Abbotsford Canada</title>
+<link>rtmp://173.192.187.144:1935/bbs playpath=livestream swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf pageUrl=http://nritv.ca/page.php?cid=30 timeout=20</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>
+<title>Dasmesh Dardar Gurdwara</title>
+<link>rtmp://173.192.187.144:1935/ddc playpath=livestream swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf pageUrl=http://nritv.ca/page.php?cid=37 timeout=20</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>
+<title>NRI TV LIVE</title>
+<link>rtmp://173.192.187.144:1935/live playpath=livestream swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf pageUrl=http://nritv.ca/page.php?cid=32 timeout=20</link>
+<thumbnail>none</thumbnail>
+</item>
+
+<item>
+<title>Kabbadi 24x7</title>
+<link>http://dragon281.server4you.net:80/Kabaddi</link>
+<thumbnail>Logo</thumbnail>
+</item>
+
+</items>
+</channel>
+
+</items>
+</channel>
+
+<!-- ================================================================================?==== 
+
+-->
+
+
+<channel>
+<name>Sports Channels</name>
+<thumbnail></thumbnail>
+<items>
+
+
+<item>
+<title>Sky Sports</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=sky_sports03.stream swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=sky_sports03&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>NBA Tv</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=nba1.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=nba1&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>Espn INDIA</title>
+<link>rtmp://cdn.livecaster.tv/live playpath=espn.stream swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=espn&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>GEO SUPER</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=13246540114814 swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=Geosuper&vw=600&vh=470 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title>PTV Sports</title>
+<link>rtmp://cdn.livecaster.tv/broadcast playpath=onlineptvsports swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=ptvsportsss1&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title>TEN Cricket</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=tencric7 swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=tencric7&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>Star Cricket</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=star_cricket.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=star_cricket&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>Ten Sports</title>
+<link>rtmp://cdn.livecaster.tv/broadcast playpath=1155200 swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=TenSportsLive&vw=600&vh=470 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>Ten Sports 2</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=ten_sports9.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=star_cricket&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>ESPN 2</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=espn_usa.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageurl=http://www.ukcast.tv/embed.php?u=espn_usa&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>CANAL+GOL TV HD</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=canal_gol swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=canal_gol&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>CANAL + Sports HD</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=canal_sports swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=canal_sports&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>Bangladesh Premier League</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=bpl.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=bpl&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+</items>
+</channel>
+
+<!-- ================================================================================?==== 
+
+-->
+
+<channel>
+<name>Indian Channels</name>
+<thumbnail></thumbnail>
+<items>
+
+
+
+<item>
+<title>Star Plus Indian</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=star456 swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=star456&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>Star Plus HD (NOT ALWAYS ONLINE)</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=starplushdd swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=starplushdd&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Zee Tv USA</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=zee_tv98.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=zee_tv98&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Zee Tv</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=zee_tv98.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=zee_tv98&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>Sony TV</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=sony1234 swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=sony1234&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>Sony TV HD</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=sonyhd swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=sonyhd&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>B4U Movies</title>
+<link>rtmp://cdn.nwk3.yupptv.tv/nwk3 playpath=b4umovies swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>Star GOld HD</title>
+<link>rtmp://cdn.livecaster.tv/broadcast playpath=stargold_hd.stream swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=stargold_hd&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Colors</title>
+<link>rtmp://91.121.9.106:1930/live/color playpath=color swfUrl=http://www.zonytvcom.info/saki/player/src2.swf live=true pageurl=http://zonytvcom.info/saki/embed.php?live=color&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>SAB</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=sab_tv6 swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=sab_tv6&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>Life OK</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=life_ok.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=life_ok&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Life OK</title>
+<link>rtmp://85.25.155.85:1930/live playpath=lifeok.stream swfUrl=http://www.zonytvcom.info/saki/player/src2.swf live=true pageUrl=http://zonytvcom.info/saki/embed.php?live=lifeok.stream&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title>Set MAX HD</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=set_max98.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=set_max98&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>Filmy</title>
+<link>rtmp://23.21.155.146/zengalive/ playpath=zenga1juneclusterfilmy150.sdp swfUrl=http://player.longtailvideo.com/player5.9.swf live=true pageUrl=http://www.newtvworld.com/livetv/india/moviesok.html timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>Zee Cinema</title>
+<link>rtmp://cdn.nwk3.yupptv.tv/nwk3 playpath=zeecinema swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx timeout=15</link>
+<thumbnail>http://www.ladybrillestars.com/wp-content/uploads/2010/03/Zee-Cinema.jpg</thumbnail>
+</item>
+
+<item>
+<title>UTV Movies</title>
+<link>rtmp://cdn.livecaster.tv/live playpath=utvmovieshigh.stream swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=utvmovieshigh&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>ABP NEWS</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=star_gold6 swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=star_gold6&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>MAA TV</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=maa_tv.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=maa_tv&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>9xm</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=9xmlow1.stream swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=9xmlow1&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>mtunes (NOT ALWAYS ONLINE)</title>
+<link>rtmp://shnzhnrtmptop.viddillions.com/jadooplus/ playpath=stream0034.stream swfUrl=http://player.longtailvideo.com/player5.9.swf swfVfy=true live=true pageUrl=http://1tvlive.in/m-tunes-hd-live/ timeout=15</link>
+<thumbnail></thumbnail>
+</item> 
+
+<item>
+<title>UTV Stars</title>
+<link>rtmp://80.82.70.225/live22 playpath=ustar11 swfUrl=http://www.zstream.eu/pl1ayer.swf swfVfy=true live=true pageUrl=http://www.zstream.eu/embed.php?v=ustar11&vw=600&vh=450&video=0&domain=pogotv.eu timeout=15</link>
+<thumbnail></thumbnail>
+</item> 
+
+
+<item>
+<title>INDIA TV</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=indiatv1.stream swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=indiatv1&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>ET NOW</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=etnow1.stream swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=etnow1&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>DISCOVERY INDIA</title>
+<link>rtmp://cdn.livecaster.tv/broadcast playpath=115521 swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=discoveryhindi&vw=600&vh=470 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>NICK</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=115521 swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=pogo6&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>DD NATIONAL</title>
+<link>rtmp://live.wcast.tv/stream playpath=dd_national.stream swfUrl=http://www.wcast.tv/player/player.swf live=true pageUrl=http://www.wcast.tv/embed.php?u=dd_national&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>DD PUNJABI</title>
+<link>rtmp://live.wcast.tv/stream playpath=dd_punjabi.stream swfUrl=http://www.wcast.tv/player/player.swf live=true pageUrl=http://www.wcast.tv/embed.php?u=dd_punjabi&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>DD URDU</title>
+<link>rtmp://live.wcast.tv/stream playpath=dd_urdu.stream swfUrl=http://www.wcast.tv/player/player.swf live=true pageUrl=http://www.wcast.tv/embed.php?u=dd_urdu&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>GET PUNJABI</title>
+<link>rtmp://live.wcast.tv/stream playpath=get_punjabi.stream swfUrl=http://www.wcast.tv/player/player.swf live=true pageUrl=http://www.wcast.tv/embed.php?u=get_punjabi&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>NAT GEO INDIA</title>
+<link>rtmp://live.wcast.tv/live playpath=NGCHindi.stream swfUrl=http://www.wcast.tv/player/player.swf live=true pageUrl=http://www.wcast.tv/embed.php?u=NGCHindi&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+</items>
+</channel>
+
+<!-- ================================================================================?==== 
+
+-->
+
+<channel>
+<name>Pakistani Channels</name>
+<thumbnail></thumbnail>
+<items>
+
+<item>
+<title>URDU 1</title>
+<link>rtmp://cdn.livecaster.tv/broadcast playpath=urdupk1 swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=urdupk1&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>ARY NEWS</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=arynews swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=arynews&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>GEO NEWS</title>
+<link>rtmp://live.wcast.tv/broadcast playpath=115517 swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=geonews115&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>ARY QTV</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=qtv swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=qtv&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>HUM TV</title>
+<link>rtmp://cdn.livecaster.tv/broadcast playpath=115520 swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=humtv2&vw=600&vh=470 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>EXPRESS ENTERTAINMENT</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=expressenti swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=expressenti&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>EXPRESS NEWS</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=expressnewsi swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=expressnewsi&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>PTV HOME</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=ptv_home.stream swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=ptv_home&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>BABY TV</title>
+<link>rtmp://cdn.livecaster.tv/live playpath=babytv.stream swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=babytv&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+</items>
+</channel>
+
+<!-- ================================================================================?==== 
+
+-->
+
+<channel>
+<name>English Channels</name>
+<thumbnail></thumbnail>
+<items>
+
+<item>
+<title>BBC</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=bbc_2 swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=bbc_2&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>CHANNEL 4</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=channel4 swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=channel4&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>FOX MOVIES</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=fox_movies.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=fox_movies&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>STAR MOVIES (NOT ALWAYS ONLINE)</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=star_movies7 swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=star_movies7&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>ABC USA</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=abc_usa.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=cw_usa&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>CW USA</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=cw_usa.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=cw_usa&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>FOX USA</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=fox_usa.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=fox_usa&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>NBC USA</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=nbc9 swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=nbc9&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>BBC WORLD NEWS</title>
+<link>rtmp://cdn.livecaster.tv/live playpath=bbcworldnews.stream swfUrl=http://www.wcast.tv/player/player.swf live=true pageUrl=http://www.wcast.tv/embed.php?u=bbcworldnews&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>FASHION TV</title>
+<link>rtmp://cdn.livecaster.tv/broadcast playpath=ftv.stream swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=ftv1&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>CNN HD</title>
+<link>rtmp://live.ukcast.tv/broadcast playpath=cnn1.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=cnn1&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail> 
+</item>
+<item>
+<title>Fox News</title>
+<link>rtmp://198.105.220.36/stream playpath=foxneww?id=81383 swfUrl=http://www.liveflash.tv/resources/scripts/eplayer.swf swfVfy=true live=true pageUrl=http://www.liveflash.tv/embedplayer/foxneww/1/500/400 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Food Network</title>
+<link>rtmp://5.39.65.109/edge playpath=r7oi6ylf755rcno swfUrl=http://static.ilive.to/jwplayer/player_embed.swf swfVfy=true live=true pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=430&channel=40158& timeout=15</link>
+<thumbnail></thumbnail>
+</item> 
+
+<item>
+<title>History channel India</title>
+<link>rtsp://ss7c6.idc.mundu.tv:554/prf2/cid_38.sdp timeout=15</link>
+<thumbnail>http://cdn.ghosttheory.com/wp-content/uploads/2010/08/historyFeatureImg.jpg</thumbnail>
+</item>
+
+<item>
+<title>history</title>
+<link>rtmp://188.122.91.19:1935/edge playpath=lh0zballwqytwki pageUrl=http://www.ilive.to swfUrl=http://cdn.static.ilive.to/jwplayer/player.swf timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>TLC</title>
+<link>rtmp://37.220.36.68:443/liverepeater playpath=3587 swfUrl=http://4372f0f736b94c17980f-72149a3bba3a67bfaa92318a7ed89a98.r76.cf1.rackcdn.com/player2.swf swfVfy=true live=true pageUrl=http://footballnews.be/player2.php?id=3587&width=640&height=460 timeout=15</link>
+<thumbnail></thumbnail>
+</item> 
+
+</items>
+</channel>
+
+<!-- ================================================================================?==== 
+
+-->
+
+<channel>
+<name>Bangla Channels</name>
+<thumbnail></thumbnail>
+<items>
+
+
+<item>
+<title>OTV BANGLA</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=otv_bangla.stream swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=otv_bangla&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>TARANG BANGLA</title>
+<link>rtmp://cdn.livecaster.tv/stream playpath=tarang_bangla.stream swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=tarang_bangla&vw=600&vh=430 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>Rupashi bangala HQ</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/pnwk1 playpath=rupashibangala900 swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Doom Cinema HQ</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk1 playpath=doommovies900 swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Doom Music HQ</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk1 playpath=doommusic900 swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+</items>
+</channel>
+
+<!-- ================================================================================?==== 
+
+-->
+<channel>
+<name>Telugu</name>
+<thumbnail></thumbnail>
+<items>
+
+<item>
+<title>Gemini Life Music</title>
+<link>rtmp://37.130.226.198/base2 playpath=hmtv8.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Maa Music HQ</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=maamusic swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Maa tv HQ</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=maatv swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Maa Movies HQ</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk1 playpath=maamovies900 swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Maa gold HQ</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk1 playpath=maajuniors900 swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Vissa HQ</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=vissa swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>zee telugu HQ</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=zeetel swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Gemini HQ</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=gemini swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Gemini Movies HQ</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=geminimovies swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>Etv HQ</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=etv swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Etv2 HQ</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=etv2 swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>DD Saptagiri</title>
+<link>rtmp://37.130.226.198/base2 playpath=dd11.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>RVS</title>
+<link>rtmp://37.130.230.101/base2 playpath=hmtv3.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>NTV</title>
+<link>rtmp://37.130.226.198/base2 playpath=maha7.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Studio N</title>
+<link>rtmp://37.130.226.198/base2 playpath=tamil8.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>ABN</title>
+<link>rtmp://37.130.226.198/base2 playpath=chan1.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>TV5 News</title>
+<link>rtmp://37.130.226.198/base2 playpath=tamil25.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>INews</title>
+<link>rtmp://37.130.226.198/base2 playpath=chan2.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>HMTV News</title>
+<link>rtmp://37.130.226.198/base2 playpath=hmtv0.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SVBC</title>
+<link>rtmp://37.130.226.198/base2 playpath=maha5.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>CVR Health</title>
+<link>rtmp://37.130.226.198/base2 playpath=hmtv9.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+</items>
+</channel>
+<!-- ================================================================================?==== 
+
+-->
+
+<channel>
+<name>Malayalam</name>
+<thumbnail></thumbnail>
+<items>
+
+<item>
+<title>Yes Indiavision</title>
+<link>rtmp://37.130.230.101/base2 playpath=hmtv2.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>raj music HQ</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=rajmusicmalayalam swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Kaumudy tv</title>
+<link>rtmp://37.130.226.198/base2 playpath=asia11.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Kiran tv HQ</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk3 playpath=kirantv swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Surya HQ</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=surya swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>Kairali</title>
+<link>rtmp://37.130.230.102/base2 playpath=tamil2.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Kairali WE</title>
+<link>rtmp://5.63.144.253/base2 playpath=tamil4.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Mazhavil Manorama</title>
+<link>rtmp://37.130.226.197/base2 playpath=maha2.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Jeevan</title>
+<link>rtmp://37.130.230.101/base2 playpath=asia4.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Asianet News HQ</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=asianet swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Maa tv HQ</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=maatv swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Asianet middle east</title>
+<link>rtmp://37.130.226.197/base2 playpath=asia1.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Asianet Movies</title>
+<link>rtmp://37.130.230.102/base2 playpath=asia15.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Jaihind</title>
+<link>rtmp://37.130.230.101/base2 playpath=asia6.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>NTV Malayalam</title>
+<link>rtmp://37.130.226.198/base2 playpath=ntvuae.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Shalom</title>
+<link>rtmp://37.130.226.198/base2 playpath=asia16.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>DD Malayalam</title>
+<link>rtmp://37.130.226.198/base2 playpath=dd9.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>AY tv</title>
+<link>rtmp://37.130.226.198/base2 playpath=asia18.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Darshna tv</title>
+<link>rtmp://5.63.144.253:1953/base2 playpath=hmtv6.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+</items>
+</channel>
+
+<!-- ================================================================================?==== 
+
+-->
+<channel>
+<name>Kannada</name>
+<thumbnail></thumbnail>
+<items>
+
+<item>
+<title>Rajmusic HQ</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=rajmusickannada swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Etv Kannada HQ</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=etvkan swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Zee Kannada HQ</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk3 playpath=zeekannada swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Udaya tv HQ</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=udaya swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Kasthuri TV</title>
+<link>rtmp://37.130.226.198/base2 playpath=maha3.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>NTV</title>
+<link>rtmp://37.130.230.101/base2 playpath=dd4.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Suvarna HQ</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=suvarna swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Suvarna News</title>
+<link>rtmp://37.130.230.101/base2 playpath=asia2.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>janasri news</title>
+<link>rtmp://37.130.230.101/base2 playpath=asia8.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Public tv</title>
+<link>rtmp://37.130.226.198/base2 playpath=tamil24.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>kasthuri news</title>
+<link>rtmp://37.130.226.198/base2 playpath=maha4.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Samaya tv</title>
+<link>rtmp://37.130.230.101/base2 playpath=maha9.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+
+</items>
+</channel>
+
+<!-- ================================================================================?==== 
+
+-->
+
+<channel>
+<name>Tamil</name>
+<thumbnail></thumbnail>
+<items>
+
+<item>
+<title>Jaya tv HQ</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=jayatv swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Jaya Plus HQ</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=jayaplus swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Jaya max HQ</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=jayamax swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Jaya Movies HQ</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=jayamovies swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Raj tv HQ</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=rajtv swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Raj tv US</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk1 playpath=rajtvus900 swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Raj Digital Plus HQ</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=rajdigitalplus swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Raj musix HQ</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=zeetelest swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Star Vijay HQ</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=geminiest swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Sun tv HQ</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=suntv swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Sun music HQ</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk3 playpath=sunmusic swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Ktv HQ</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=ktv swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Polimer tv</title>
+<link>rtmp://37.130.226.198/base2 playpath=tamil23.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Murasu tv</title>
+<link>rtmp://37.130.230.101/base2 playpath=kalai5.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Vasanth tv</title>
+<link>rtmp://37.130.226.198/base2 playpath=tamil7.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Chithiram</title>
+<link>rtmp://37.130.230.101/base2 playpath=kalai4.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Mega 24</title>
+<link>rtmp://37.130.230.101/base2 playpath=kalai7.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Mega tv</title>
+<link>rtmp://37.130.230.101/base2 playpath=kalai6.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Kalaignar</title>
+<link>rtmp://5.63.144.253:1953/base2 playpath=kalai0.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Makkal</title>
+<link>rtmp://37.130.226.198/base2 playpath=tamil20.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Dheeran tv</title>
+<link>rtmp://37.130.226.198/base2 playpath=asia14.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Isai Aruvi</title>
+<link>rtmp://5.63.144.253:1953/base2 playpath=kalai2.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Mega Music</title>
+<link>rtmp://37.130.230.101/base2 playpath=kalai8.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>7S Music</title>
+<link>rtmp://37.130.230.101/base2 playpath=hmtv5.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Seithigal</title>
+<link>rtmp://37.130.230.101/base2 playpath=kalai1.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Captain TV</title>
+<link>rtmp://37.130.226.198/base2 playpath=tamil0.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Sathiyam</title>
+<link>rtmp://37.130.226.198/base2 playpath=asia12.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Puthiya Thalai</title>
+<link>rtmp://37.130.226.198/base2 playpath=tamil22.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-national/ live=true timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+</items>
+</channel>
+
+<!-- ================================================================================?==== 
+
+-->
+
+<channel>
+<name>Marathi</name>
+<thumbnail></thumbnail>
+<items>
+
+<item>
+<title>9X JhakaasHQ</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=etvuk swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Saam HQ</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk1 playpath=channel2900 swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Star Pravah HQ</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk3 playpath=starpravah swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Zee marathi HQ</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk3 playpath=zeemarathi swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Zee Talkies HQ</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk3 playpath=zeetalkies swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
+</items>
+</channel>
+
+<!-- ================================================================================?==== 
+
+-->
+<channel>
+<name>Channels by Gill And Sidhu..</name>
+<thumbnail></thumbnail>
+<items>
+
+
+
+
+<!-- ================================================================================?==== 
+
+-->
+<channel>
+<name>Copyrighted by Gill© and produced with the help of Sidhu</name>
+<thumbnail></thumbnail>
+<items>
+
+
+</channels>
+
+
+
+
+
+
