@@ -16,7 +16,7 @@
 </item>
 
 <item>
-<title>Sun TV Europe</title>
+<title>Sun TV (UK time)</title>
 <link>rtmp://93.114.44.162/live22 playpath=sun_tv2 swfUrl=http://www.zstream.eu/pl11ayer.swf swfVfy=true live=true pageUrl=http://www.zstream.eu/embed.php?v=sun_tv2 timeout=15</link>
 <thumbnail>https://lh3.googleusercontent.com/-hb8LAYYmz50/UTUtqSlwE5I/AAAAAAAAAFU/6c8uywOcF2A/h113/suntv.png</thumbnail>
 </item>
@@ -265,6 +265,12 @@
 <title>Sathiyam TV (News)</title>
 <link>rtmp://50.7.188.212:1939/base2/asia12.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/sathiyam-tv-live/</link>
 <thumbnail>https://lh5.googleusercontent.com/-2pT6pfANZPk/UTUtn1iEj2I/AAAAAAAAAEs/RcvaV2_Fjag/s425/sathiyamtv.png</thumbnail>
+</item>
+
+<item>
+<title>Vasantham TV (Sri Lanka)</title>
+<link>rtmp://mediacp2.comcities.com:1935/itn-vasantham playpath=itn-vasantham swfUrl=http://cdn.itnlanka.com/vasanthamtv.swf pageUrl=http://cdn.itnlanka.com/vasanthamtv.swf</link>
+<thumbnail>https://lh5.googleusercontent.com/-Gok8dgdyhSA/UTXdznEp0_I/AAAAAAAAAIc/9EP1PH5bqFY/s425/vasanthamtvsl.png</thumbnail>
 </item>
 
 <item>
