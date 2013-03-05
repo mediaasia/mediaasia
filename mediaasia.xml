@@ -312,6 +312,12 @@
 </item>
 
 <item>
+<title>Disney Channel</title>
+<link>rtmp://80.82.78.37/cast?ovpfv=2.1.4/disney_channel swfUrl=http://95.211.219.184/LiveVideoPlayer.swf live=true pageUrl=http://www.99cast.com/embed.php?v=disney_channel&vw=600&vh=450&domain=pogotv.eu</link>
+<thumbnail>http://3.bp.blogspot.com/_FLqleQgRHAw/SN_CWzFOqaI/AAAAAAAAC08/oyiYqrZEadE/s400/DisneyChannelLogo.png</thumbnail>
+</item>
+
+<item>
 <title>Cartoon Network</title>
 <link>rtmp://cdn.livecaster.tv/stream/cartooni9 swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=cartooni9&vw=600&vh=430</link>
 <thumbnail></thumbnail>
