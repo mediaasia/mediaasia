@@ -10,8 +10,14 @@
 
 
 <item>
-<title>Star Vijay TV</title>
+<title>Star Vijay TV USA</title>
 <link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=geminiest swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<thumbnail>https://lh5.googleusercontent.com/-u9n4ZWYIOfw/UTUtpsSxMgI/AAAAAAAAAFA/k3DT34bpefo/h113/starvijaytv.png</thumbnail>
+</item>
+
+<item>
+<title>Star Vijay TV</title>
+<link>rtmp://80.82.70.225/live22/star_vijay swfUrl=http://www.zstream.eu/pl11ayer.swf pageUrl=http://www.zstream.eu/embed.php?v=star_vijay&vw=600&vh=450&video=0&domain=pogotv.eu</link>
 <thumbnail>https://lh5.googleusercontent.com/-u9n4ZWYIOfw/UTUtpsSxMgI/AAAAAAAAAFA/k3DT34bpefo/h113/starvijaytv.png</thumbnail>
 </item>
 
