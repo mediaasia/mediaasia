@@ -251,7 +251,7 @@
 
 <item>
 <title>Raj News 24x7</title>
-<link>rtmp://127.0.0.1:60001/live/gtcdnfreedocastrajnewstamilauto swfUrl=http://static.cdn.yupptv.tv/[[IMPORT]]/cdn.octoshape.net/resources/player/flowplayer/OctoshapeStreaming.swf live=true pageUrl=http://desichannels.webnode.com/hindi-channels/tamil-channels/raj-news-tamil/</link>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk1 playpath=rajnewstamil swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=151</link>
 <thumbnail>https://lh4.googleusercontent.com/-YG2NhNMCYoU/UTUtmaxZklI/AAAAAAAAAEY/eAsWQonQSAM/s425/rajnews.png<thumbnail>
 </item>
 
