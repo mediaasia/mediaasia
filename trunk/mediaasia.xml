@@ -17,15 +17,9 @@
 
 <item>
 <title>Sun TV Europe</title>
-<link>rtmp://93.114.44.162/live22%20playpath=sun_tv2 swfUrl=http://www.zstream.eu/pl11ayer.swf pageUrl=http://www.zstream.eu/embed.php?v=sun_tv2%20timeout=15</link>
+<link>rtmp://93.114.44.162/live playpath=sun_tv2 swfUrl=http://www.zstream.eu/pl11ayer.swf pageUrl=http://www.zstream.eu/embed.php?v=sun_tv2%20timeout=15</link>
 <thumbnail>https://lh3.googleusercontent.com/-hb8LAYYmz50/UTUtqSlwE5I/AAAAAAAAAFU/6c8uywOcF2A/h113/suntv.png</thumbnail>
 </item>
-
-type=video
-name=Sun TV Europe
-thumb=http://2.bp.blogspot.com/-HlV0m2cgZLQ/US28W7Olp7I/AAAAAAAABgU/hftIxvk8Tyc/s1600/suntv_eu.jpg
-URL=rtmp://93.114.44.162/live22%20playpath=sun_tv2%20%20swfUrl=http://www.zstream.eu/pl11ayer.swf%20pageUrl=http://www.zstream.eu/embed.php?v=sun_tv2%20timeout=15
-player=default
 
 <item>
 <title>Sun TV India</title>
