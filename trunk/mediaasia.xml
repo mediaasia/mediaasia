@@ -113,7 +113,7 @@
 
 <item>
 <title>Mega 24</title>
-<link>rtmp://50.7.190.130:1939/base2/kalai7.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/mega-24-live/</link>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk2 playpath=mega24 swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=257</link>
 <thumbnail>https://lh5.googleusercontent.com/-bzMRYv7gFeU/UTUthI97ZGI/AAAAAAAAADg/VDjyh3FMg5c/s425/mega24.png</thumbnail>
 </item>
 
@@ -125,13 +125,13 @@
 
 <item>
 <title>Mega TV</title>
-<link>rtmp://50.7.190.130:1939/base2/kalai6.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/mega-tv-live/</link>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk2 playpath=megatv swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=108</link>
 <thumbnail>https://lh5.googleusercontent.com/-SuKNObhQxtI/UTUtiD67LuI/AAAAAAAAADs/oEmGuiKuKQE/s425/megatv.png</thumbnail>
 </item>>
 
 <item>
 <title>Makkal TV</title>
-<link>rtmp://50.7.188.212:1939/base2/tamil20.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/makkal-live/</link>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk1 playpath=makkal swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=152</link>
 <thumbnail>https://lh3.googleusercontent.com/-zeg45HyMASk/UTUtgn5jAII/AAAAAAAAADU/SwdIlByLx4c/s425/makkaltv.png</thumbnail>
 </item>
 
@@ -203,7 +203,7 @@
 
 <item>
 <title>Mega Musiq</title>
-<link>rtmp://50.7.190.130:1939/base2/kalai8.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/mega-musiq-live/</link>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk2 playpath=megamusiq swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=256</link>
 <thumbnail>https://lh6.googleusercontent.com/-pnt-79G_CD0/UTUthSJ_G-I/AAAAAAAAADk/AueV0mMLww4/s425/megamusiq.png</thumbnail>
 </item>
 
