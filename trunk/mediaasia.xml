@@ -83,7 +83,7 @@
 
 <item>
 <title>Sirippoli TV</title>
-<link>rtmp://50.7.188.163/base2/kalai3.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/sirippoli-tv/</link>
+<link>rtmp://50.7.188.211/base2/kalai3.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/sirippoli-tv/</link>
 <thumbnail>https://lh5.googleusercontent.com/-VuVKXD0zNP0/UTUtonZBFsI/AAAAAAAAAFM/3BsY9w1m080/s425/sirippoli.png</thumbnail>
 </item>
 
@@ -119,7 +119,7 @@
 
 <item>
 <title>Polimer TV</title>
-<link>rtmp://50.7.188.212:1939/base2/tamil23.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/polimer-tv-live/</link>
+<link>rtmp://50.7.190.134/base2/tamil23.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/polimer-tv-live/</link>
 <thumbnail>https://lh3.googleusercontent.com/-lumSDo1MeSE/UTUtjzLeD1I/AAAAAAAAAEE/D7l2I8Rz_pQ/s425/polimertv.png</thumbnail>
 </item>
 
@@ -143,19 +143,19 @@
 
 <item>
 <title>Captain TV</title>
-<link>rtmp://50.7.188.212:1939/base2/tamil0.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/captain-tv-live/</link>
+<link>rtmp://50.7.190.134/base2/tamil0.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/captain-tv-live/</link>
 <thumbnail>https://lh4.googleusercontent.com/-uQXmjo5L_vI/UTUteSGxEqI/AAAAAAAAACU/pQ4Oa_KHDMc/s425/captaintv.png</thumbnail>
 </item>
 
 <item>
 <title>Dheeran TV</title>
-<link>rtmp://50.7.188.212:1939/base2/asia14.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/dheeran-tv-live/</link>
+<link>rtmp://50.7.190.134/base2/asia14.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/dheeran-tv-live/</link>
 <thumbnail>https://lh5.googleusercontent.com/-8YTQiOsESuo/UTUtfF-j3SI/AAAAAAAAACk/wSgIXkXlVA0/s425/dheerantv.png</thumbnail>
 </item>
 
 <item>
 <title>DD Podhigai</title>
-<link>rtmp://50.7.188.212:1939/base2/dd10.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/dd-podhigai-live/</link>
+<link>rtmp://50.7.190.134/base2/dd10.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/dd-podhigai-live/</link>
 <thumbnail>https://lh6.googleusercontent.com/-IY8T-zkfjVg/UTUtenGCbJI/AAAAAAAAAC8/yTw98QZj9do/s425/ddpodhigai.png</thumbnail>
 </item>
 
@@ -173,7 +173,7 @@
 
 <item>
 <title>Vasanth TV</title>
-<link>rtmp://50.7.188.212:1939/base2/tamil7.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/vasanth-tv-live/</link>
+<link>rtmp://50.7.190.134/base2/tamil7.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/vasanth-tv-live/</link>
 <thumbnail>https://lh4.googleusercontent.com/-V3K3Q23N0wI/UTUtraIhgEI/AAAAAAAAAGQ/lJKQ5v0qvu0/s425/vasanthtv.png</thumbnail>
 </item>
 
@@ -221,7 +221,7 @@
 
 <item>
 <title>Puthiya Thalaimurai (News)</title>
-<link>rtmp://50.7.188.212:1939/base2/tamil22.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/puthiya-thalaimurai-live/</link>
+<link>rtmp://50.7.190.134/base2/tamil22.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/puthiya-thalaimurai-live/</link>
 <thumbnail>https://lh6.googleusercontent.com/-McpiYO9go5w/UTUtnJRwU1I/AAAAAAAAAE4/nMktThgVLr0/s425/puthiyathalaimurai.png</thumbnail>
 </item>
 
@@ -251,13 +251,13 @@
 
 <item>
 <title>Captain News</title>
-<link>rtmp://50.7.188.212:1939/base2/tamil1.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/captain-tv-news/</link>
+<link>rtmp://50.7.190.134/base2/tamil1.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/captain-tv-news/</link>
 <thumbnail>https://lh5.googleusercontent.com/-oLKtl3VBFTg/UTUtd9RIv8I/AAAAAAAAACg/odnycZPgdVQ/s425/captainnews.png</thumbnail>
 </item>
 
 <item>
 <title>Sathiyam TV (News)</title>
-<link>rtmp://50.7.188.212:1939/base2/asia12.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/sathiyam-tv-live/</link>
+<link>rtmp://50.7.190.134/base2/asia12.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/sathiyam-tv-live/</link>
 <thumbnail>https://lh5.googleusercontent.com/-2pT6pfANZPk/UTUtn1iEj2I/AAAAAAAAAEs/RcvaV2_Fjag/s425/sathiyamtv.png</thumbnail>
 </item>
 
@@ -463,31 +463,25 @@
 
 <item>
 <title>Kairali TV</title>
-<link>rtmp://50.7.188.163/base2/tamil2.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true pageUrl=http://www.turbotv.in/kairali-tv-live/</link>
+<link>rtmp://50.7.190.83/base2/tamil2.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true pageUrl=http://www.turbotv.in/kairali-tv-live/</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>Kairali WE</title>
-<link>rtmp://50.7.188.163/base2/tamil4.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/kairali-we-live/</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Kairali WE</title>
-<link>rtmp://50.7.188.163/base2/tamil4.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/kairali-we-live/</link>
+<link>rtmp://50.7.190.83/base2/tamil4.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/kairali-we-live/</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>Asianet Middle East</title>
-<link>rtmp://50.7.188.163/base2/asia1.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/asianet-middle-east-live/</link>
+<link>rtmp://50.7.188.211/base2/asia1.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/asianet-middle-east-live/</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>Asianet Movies</title>
-<link>rtmp://50.7.188.163/base2/asia15.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/asianet-movies-live/</link>
+<link>rtmp://50.7.188.211/base2/asia15.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/asianet-movies-live/</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -505,13 +499,7 @@
 
 <item>
 <title>Kaumudy TV</title>
-<link>rtmp://50.7.188.212:1939/base2/asia11.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/kaumudy-tv-live/</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Jaihind News</title>
-<link>rtmp://50.7.190.130:1939/base2/asia6.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/jaihind-tv-live//</link>
+<link>rtmp://50.7.190.134/base2/asia11.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/kaumudy-tv-live/</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -523,25 +511,13 @@
 
 <item>
 <title>Mazhavil Manorama</title>
-<link>rtmp://50.7.188.163/base2/maha2.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/mazhavil-manorama-live/</link>
+<link>rtmp://50.7.188.211/base2/maha2.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/mazhavil-manorama-live/</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>DD Malayalam</title>
-<link>rtmp://50.7.188.212:1939/base2/dd9.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-malayalam-live/</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Indiavision</title>
-<link>rtmp://50.7.188.163/base2/hmtv1.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/indiavision-live/</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Kairali People (News)</title>
-<link>rtmp://50.7.188.212:1939/base2/tamil3.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/kairali-people-live/</link>
+<link>rtmp://50.7.190.134/base2/dd9.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-malayalam-live/</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -554,12 +530,6 @@
 <item>
 <title>Raj Musix Malayalam</title>
 <link>rtmp://50.7.190.130:1939/base2/raj3.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/raj-musix-malayalm/</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>NTV Middle East</title>
-<link>rtmp://50.7.188.212:1939/base2/ntvuae.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/ntv-malayalam/</link>
 <thumbnail></thumbnail>
 </item>
 
@@ -624,7 +594,6 @@
 <thumbnail></thumbnail>
 </item>
 
-
 <item>
 <title>ETV</title>
 <link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=etv swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
@@ -639,13 +608,13 @@
 
 <item>
 <title>DD Saptagiri</title>
-<link>rtmp://50.7.188.212:1939/base2/dd11.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-sapthagiri-live/</link>
+<link>rtmp://50.7.190.134/base2/dd11.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-sapthagiri-live/</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>CVR Health</title>
-<link>rtmp://50.7.188.212:1939/base2/hmtv9.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/cvr-health/</link>
+<link>rtmp://50.7.190.134/base2/hmtv9.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/cvr-health/</link>
 <thumbnail></thumbnail>
 </item> 
 
@@ -683,12 +652,6 @@
 <item>
 <title>Udaya TV</title>
 <link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=udaya swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Kasthuri TV</title>
-<link>rtmp://50.7.188.212:1939/base2/maha3.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/kasthuri-tv-live/</link>
 <thumbnail></thumbnail>
 </item>
 
