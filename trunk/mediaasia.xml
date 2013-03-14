@@ -16,27 +16,9 @@
 </item>
 
 <item>
-<title>Star Vijay TV Europe</title>
-<link>rtmp://80.82.70.225/live22/star_vijay swfUrl=http://www.zstream.eu/pl11ayer.swf pageUrl=http://www.zstream.eu/embed.php?v=star_vijay&vw=600&vh=450&video=0&domain=pogotv.eu</link>
-<thumbnail>https://lh5.googleusercontent.com/-u9n4ZWYIOfw/UTUtpsSxMgI/AAAAAAAAAFA/k3DT34bpefo/h113/starvijaytv.png</thumbnail>
-</item>
-
-<item>
-<title>Sun TV Europe</title>
-<link>rtmp://93.114.44.162/live22 playpath=sun_tv2 swfUrl=http://www.zstream.eu/pl11ayer.swf swfVfy=true live=true pageUrl=http://www.zstream.eu/embed.php?v=sun_tv2 timeout=15</link>
-<thumbnail>https://lh3.googleusercontent.com/-hb8LAYYmz50/UTUtqSlwE5I/AAAAAAAAAFU/6c8uywOcF2A/h113/suntv.png</thumbnail>
-</item>
-
-<item>
 <title>Sun TV India</title>
 <link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=suntv swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
 <thumbnail>https://lh3.googleusercontent.com/-hb8LAYYmz50/UTUtqSlwE5I/AAAAAAAAAFU/6c8uywOcF2A/h113/suntv.png</thumbnail>
-</item>
-
-<item>
-<title>Ayngaran-Kalaignar TV</title>
-<link>rtmp://80.82.70.225/live22/kal swfUrl=http://www.zstream.eu/pl11ayer.swf pageUrl=http://www.zstream.eu/embed.php?v=kal&vw=630&vh=400&video=0&domain=www.pogotv.eu</link>
-<thumbnail>https://lh4.googleusercontent.com/-x9Iv7t06i5M/UTUtdgVEL6I/AAAAAAAAABs/VLo1aquEHn8/h113/ayngarantv.png</thumbnail>
 </item>
 
 <item>
@@ -73,12 +55,6 @@
 <title>Murasu TV</title>
 <link>rtmp://50.7.190.130:1939/base2/kalai5.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/murasu-tv-live/</link>
 <thumbnail>https://lh3.googleusercontent.com/-RpjOC9t03bk/UTUtpcqMuxI/AAAAAAAAAFc/w_C5VYPU7h8/s425/murasutv.png</thumbnail>
-</item>
-
-<item>
-<title>Adithya TV</title>
-<link>rtmp://80.82.70.225/live22/adithyatv swfUrl=http://www.zstream.eu/pl11ayer.swf pageUrl=http://www.zstream.eu/embed.php?v=adithyatv&vw=600&vh=420&video=0&domain=pogotv.eu</link>
-<thumbnail>https://lh3.googleusercontent.com/--RIqIwY8LEw/UTU0YCqlq4I/AAAAAAAAAHI/7o_MgxzF15A/s425/adithyatv.png</thumbnail>
 </item>
 
 <item>
@@ -157,12 +133,6 @@
 <title>DD Podhigai</title>
 <link>rtmp://50.7.188.164/base2/dd10.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/dd-podhigai-live/</link>
 <thumbnail>https://lh6.googleusercontent.com/-IY8T-zkfjVg/UTUtenGCbJI/AAAAAAAAAC8/yTw98QZj9do/s425/ddpodhigai.png</thumbnail>
-</item>
-
-<item>
-<title>Zee Tamil</title>
-<link>rtmp://80.82.70.225/live22/zeetamil swfUrl=http://www.zstream.eu/pl11ayer.swf pageUrl=http://www.zstream.eu/embed.php?v=zeetamil&vw=658&vh=450&video=0&domain=www.pogotv.eu/</link>
-<thumbnail>https://lh3.googleusercontent.com/--YxloEZ0KFs/UTUtrlHvn4I/AAAAAAAAAGU/2tDZjmj-Izc/s425/zeetamil.png</thumbnail>
 </item>
 
 <item>
