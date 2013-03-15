@@ -444,6 +444,19 @@
 <thumbnail></thumbnail>
 <items>
 
+
+<item>
+<title>Surya TV</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=surya swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=15</link>
+<thumbnail>http://tv.onlinemoviesportsandtv.com/wp-content/uploads/2012/10/Surya-TV.jpg</thumbnail>
+</item>
+
+<item>
+<title>Kiran TV</title>
+<link>rtmp://cdn.rtmp1.yupptv.tv/nwk3 playpath=kirantv swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?Chanld=9 timeout=15</link>
+<thumbnail></thumbnail>
+</item>
+
 <item>
 <title>Kairali TV</title>
 <link>rtmp://50.7.190.83/base2/tamil2.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true pageUrl=http://www.turbotv.in/kairali-tv-live/</link>
