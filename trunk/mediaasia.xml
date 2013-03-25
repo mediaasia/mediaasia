@@ -124,6 +124,12 @@
 </item>
 
 <item>
+<title>TEST Polimer TV</title>
+<link>rtmp://65.49.77.252/redirect playpath=tamil23.stream swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=214 timeout=15</link>
+<thumbnail>https://lh3.googleusercontent.com/-iNd_ySxwMHs/UTUtq4w20vI/AAAAAAAAAGE/EGT6ycgbmBU/s425/thanthitv.png<thumbnail>
+</item>
+
+<item>
 <title>Mega TV</title>
 <link>rtmp://cdn.rtmp1.yupptv.tv/nwk2 playpath=megatv swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=108</link>
 <thumbnail>https://lh5.googleusercontent.com/-SuKNObhQxtI/UTUtiD67LuI/AAAAAAAAADs/oEmGuiKuKQE/s425/megatv.png</thumbnail>
