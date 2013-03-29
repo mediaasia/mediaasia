@@ -118,6 +118,12 @@
 </item>
 
 <item>
+<title>Super TV</title>
+<link>rtmp://webcasting.thefloridachannel.org/live/supertv swfUrl=http://supertv.in/wp-content/themes/supertv/live/SuperFlashPlayer.swf pageUrl=http://www.supertv.in</link>
+<thumbnail>https://lh3.googleusercontent.com/-7W1SEoplfl8/UTUQdpWv7_I/AAAAAAAAABY/kDi-fTbKB54/s425/kalaignartv.png</thumbnail>
+</item>
+
+<item>
 <title>Polimer TV</title>
 <link>rtmp://85.12.5.86:1940/base2/tamil23.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/polimer-tv-live/</link>
 <thumbnail>https://lh3.googleusercontent.com/-lumSDo1MeSE/UTUtjzLeD1I/AAAAAAAAAEE/D7l2I8Rz_pQ/s425/polimertv.png</thumbnail>
