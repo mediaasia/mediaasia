@@ -256,7 +256,7 @@
 </item>
 
 <item>
-<title>Sun News Test</title>
+<title>Sun News</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bfzytwvRzII</link>
 <thumbnail></thumbnail>
 </item>
@@ -271,6 +271,11 @@
 <title>Vasantham TV (Sri Lanka)</title>
 <link>rtmp://mediacp2.comcities.com:1935/itn-vasantham playpath=itn-vasantham swfUrl=http://cdn.itnlanka.com/vasanthamtv.swf pageUrl=http://cdn.itnlanka.com/vasanthamtv.swf</link>
 <thumbnail>https://lh5.googleusercontent.com/-Gok8dgdyhSA/UTXdznEp0_I/AAAAAAAAAIc/9EP1PH5bqFY/s425/vasanthamtvsl.png</thumbnail>
+</item>
+
+<item>
+<title>DAN Yaarl Oli</title>
+<link>rtmp://flash64.ustream.tv:1935/ustreamVideo/8774680/ playpath=streams/live swfUrl=http://static-cdn1.ustream.tv/swf/live/viewer.rsl:96.swf swfVfy=1 live=1</link>
 </item>
 
 <item>
