@@ -256,6 +256,12 @@
 </item>
 
 <item>
+<title>Sun News Test</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bfzytwvRzII</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>Sathiyam TV (News)</title>
 <link>rtmp://85.12.5.86:1940/base2/asia12.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/sathiyam-tv-live/</link>
 <thumbnail>https://lh5.googleusercontent.com/-2pT6pfANZPk/UTUtn1iEj2I/AAAAAAAAAEs/RcvaV2_Fjag/s425/sathiyamtv.png</thumbnail>
