@@ -274,6 +274,11 @@
 </item>
 
 <item>
+<title>Deepam TV Test</title>
+<link>rtmp://flash66.ustream.tv:1935/ustreamVideo/13614418/ playpath=streams/live swfUrl=http://static-cdn1.ustream.tv/swf/live/viewer.rsl:96.swf swfVfy=1 live=1</link>
+</item>
+
+<item>
 <title>DAN Yaarl Oli</title>
 <link>rtmp://flash64.ustream.tv:1935/ustreamVideo/8774680/ playpath=streams/live swfUrl=http://static-cdn1.ustream.tv/swf/live/viewer.rsl:96.swf swfVfy=1 live=1</link>
 </item>
