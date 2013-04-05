@@ -258,7 +258,7 @@
 <item>
 <title>Sun News</title>
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bfzytwvRzII</link>
-<thumbnail></thumbnail>
+<thumbnail>https://lh6.googleusercontent.com/-tomTxm7yLQc/UV9GLYz1XII/AAAAAAAAAKQ/zryAJHIaL8A/s425/sunnews.png</thumbnail>
 </item>
 
 <item>
@@ -274,13 +274,9 @@
 </item>
 
 <item>
-<title>Deepam TV Test</title>
-<link>rtmp://flash66.ustream.tv:1935/ustreamVideo/13614418/ playpath=streams/live swfUrl=http://static-cdn1.ustream.tv/swf/live/viewer.rsl:96.swf swfVfy=1 live=1</link>
-</item>
-
-<item>
 <title>DAN Yaarl Oli</title>
 <link>rtmp://flash64.ustream.tv:1935/ustreamVideo/8774680/ playpath=streams/live swfUrl=http://static-cdn1.ustream.tv/swf/live/viewer.rsl:96.swf swfVfy=1 live=1</link>
+<thumbnail>https://lh3.googleusercontent.com/-LcH7yyVOKgE/UV9FYwpwF4I/AAAAAAAAAKI/1Ds2Nw_zKPE/s425/danyaarloli.png</thumbnail>
 </item>
 
 <item>
