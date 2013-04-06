@@ -280,6 +280,12 @@
 </item>
 
 <item>
+<title>Deekshana TV</title>
+<link>rtmp://mobile.mslive.co.in:2121/live swfUrl='http://mslive.co.in/jw/player.swf'</link>
+<thumbnail>https://lh3.googleusercontent.com/-LcH7yyVOKgE/UV9FYwpwF4I/AAAAAAAAAKI/1Ds2Nw_zKPE/s425/danyaarloli.png</thumbnail>
+</item>
+
+<item>
 <title>Sri Sankara TV</title>
 <link>rtmp://live.wmncdn.net/srisankaratv playpath=731c32a3cb2f6da858429935e72111db.sdp swfUrl=http://player.wmncdn.net/player/liveplayer.swf pageUrl=http://www.srisankaratv.net/web_tv.html</link>
 <thumbnail>https://lh6.googleusercontent.com/--RDseB3KJLs/UTUtpIkAZzI/AAAAAAAAAGM/6KdzBVznAtw/s425/srisankara.png</thumbnail>
@@ -290,7 +296,6 @@
 <link>rtmp://mstream.mslive.co.in/live playpath=kaga swfUrl=http://player.longtailvideo.com/player.swf live=true pageUrl=http://livetvchannelsin.net/moontv.html</link>
 <thumbnail>https://lh5.googleusercontent.com/-FzxPt6pxEH8/UTUtiYV2q6I/AAAAAAAAADw/soZX2gag5Uk/s425/moontv.png</thumbnail>
 </item>
-
 
 </items>
 </channel>
