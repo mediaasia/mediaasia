@@ -71,19 +71,19 @@
 
 <item>
 <title>Murasu TV</title>
-<link>rtmp://85.12.5.86:1939/base2/kalai5.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/murasu-tv-live/</link>
+<link>rtmp://64.62.224.243:1939/base2/kalai5.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/murasu-tv-live/</link>
 <thumbnail>https://lh3.googleusercontent.com/-RpjOC9t03bk/UTUtpcqMuxI/AAAAAAAAAFc/w_C5VYPU7h8/s425/murasutv.png</thumbnail>
 </item>
 
 <item>
 <title>Sirippoli TV</title>
-<link>rtmp://85.12.5.86:1939/base2/kalai3.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/sirippoli-tv/</link>
+<link>rtmp://64.62.224.243:1939/base2/kalai3.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/sirippoli-tv/</link>
 <thumbnail>https://lh5.googleusercontent.com/-VuVKXD0zNP0/UTUtonZBFsI/AAAAAAAAAFM/3BsY9w1m080/s425/sirippoli.png</thumbnail>
 </item>
 
 <item>
 <title>Kalaignar TV</title>
-<link>rtmp://85.12.5.86:1939/base2/kalai0.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/kalaignar-tv-live/</link>
+<link>rtmp://64.62.224.243:1939/base2/kalai0.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/kalaignar-tv-live/</link>
 <thumbnail>https://lh3.googleusercontent.com/-7W1SEoplfl8/UTUQdpWv7_I/AAAAAAAAABY/kDi-fTbKB54/s425/kalaignartv.png</thumbnail>
 </item>
 
@@ -143,7 +143,7 @@
 
 <item>
 <title>Chithiram TV</title>
-<link>rtmp://85.12.5.86:1939/base2/kalai4.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/chithiram-live/</link>
+<link>rtmp://64.62.224.243:1939/base2/kalai4.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/chithiram-live/</link>
 <thumbnail>https://lh3.googleusercontent.com/-NdmyoCpkgZI/UTUtekGbbVI/AAAAAAAAAC0/jWxHDStkZOQ/s425/chithiram.png</thumbnail>
 </item>
 
@@ -185,7 +185,7 @@
 
 <item>
 <title>Isai Aruvi</title>
-<link>rtmp://85.12.5.86:1939/base2/kalai2.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/isai-aruvi-live/</link>
+<link>rtmp://64.62.224.243:1939/base2/kalai2.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/isai-aruvi-live/</link>
 <thumbnail>https://lh5.googleusercontent.com/-zTB0DgIbfCI/UTUtfGEflnI/AAAAAAAAACs/KdKi3X62veM/s425/isaiaruvi.png</thumbnail>
 </item>
 
@@ -203,13 +203,13 @@
 
 <item>
 <title>7S Music</title>
-<link>rtmp://85.12.5.86:1939/base2/hmtv5.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/7s-music-live/</link>
+<link>rtmp://64.62.224.243:1939/base2/hmtv5.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/7s-music-live/</link>
 <thumbnail>https://lh3.googleusercontent.com/-eC1bS12iWdk/UTUtddLUgQI/AAAAAAAAAB4/sTT-M_gtE_k/s425/7smusic.png</thumbnail>
 </item>
 
 <item>
 <title>Seithigal</title>
-<link>rtmp://85.12.5.86:1939/base2/kalai1.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/seithigal-live/</link>
+<link>rtmp://64.62.224.243:1939/base2/kalai1.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/seithigal-live/</link>
 <thumbnail>https://lh4.googleusercontent.com/-jji8225eHf4/UTUtokH408I/AAAAAAAAAFE/NLF_519WPak/s425/seithigal.png</thumbnail>
 </item>
 
@@ -275,13 +275,13 @@
 
 <item>
 <title>DAN Yaarl Oli</title>
-<link>rtmp://flash86.ustream.tv:1935/ustreamVideo/8774680/ playpath=streams/live swfUrl=http://static-cdn1.ustream.tv/swf/live/viewer.rsl:96.swf swfVfy=1 live=1</link>
+<link>rtmp://flash64.ustream.tv:1935/ustreamVideo/8774680/ playpath=streams/live swfUrl=http://static-cdn1.ustream.tv/swf/live/viewer.rsl:96.swf swfVfy=1 live=1</link>
 <thumbnail>https://lh3.googleusercontent.com/-LcH7yyVOKgE/UV9FYwpwF4I/AAAAAAAAAKI/1Ds2Nw_zKPE/s425/danyaarloli.png</thumbnail>
 </item>
 
 <item>
 <title>Deekshana TV</title>
-<link>rtmp://mobile.mslive.co.in:2121/live swfUrl=http://mslive.co.in/jw/player.swf pageUrl=http://tamiltv.tv/gtv-spv-live/</link>
+<link>rtmp://mobile.mslive.co.in:2121/live//gdee swfUrl=http://mslive.co.in/jw/player.swf pageUrl=http://www.deekshana.tv</link>
 <thumbnail>https://lh3.googleusercontent.com/-LcH7yyVOKgE/UV9FYwpwF4I/AAAAAAAAAKI/1Ds2Nw_zKPE/s425/danyaarloli.png</thumbnail>
 </item>
 
