@@ -293,7 +293,7 @@
 
 <item>
 <title>Moon TV</title>
-<link>rtmp://mobile.mslive.co.in:2121/live/gmoon1 playpath=kaga swfUrl=http://mslive.co.in/jw/player.swf live=true pageUrl=http://moontv.com/</link>
+<link>rtmp://mobile.mslive.co.in:2121/live/gmoon1 swfUrl=http://mslive.co.in/jw/player.swf live=true pageUrl=http://moontv.com/</link>
 <thumbnail>https://lh5.googleusercontent.com/-FzxPt6pxEH8/UTUtiYV2q6I/AAAAAAAAADw/soZX2gag5Uk/s425/moontv.png</thumbnail>
 </item>
 
