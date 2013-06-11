@@ -23,7 +23,7 @@
 
 <item>
 <title>Sun TV USA</title>
-<link>rtmp://live.ukcast.tv/broadcast playpath=sun_tv.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=sun_tv&vw=600&vh=430 timeout=15</link>
+<link>rtmp://cdn.rtmp1.yupptv.tv/pnwk playpath=suntvus swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=sun_tv&vw=600&vh=430 timeout=15</link>
 <thumbnail>https://lh3.googleusercontent.com/-hb8LAYYmz50/UTUtqSlwE5I/AAAAAAAAAFU/6c8uywOcF2A/h113/suntv.png<thumbnail>
 </item>
 
