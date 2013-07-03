@@ -220,8 +220,8 @@
 </item>
 
 <item>
-<title>Seithigal</title>
-<link>rtmp://127.0.0.1:60001/live/gtcdnfreedocastkalaignarliveauto swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF pageUrl=http://www.aplatestnews.com/livetv.php?tvid=35</link>
+<title>Kalaignar Seithigal</title>
+<link>rtmp://50.7.130.43:1939/base2/kalai1.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/seithigal-live/</link>
 <thumbnail>https://lh4.googleusercontent.com/-jji8225eHf4/UTUtokH408I/AAAAAAAAAFE/NLF_519WPak/s425/seithigal.png</thumbnail>
 </item>
 
