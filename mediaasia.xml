@@ -11,7 +11,7 @@
 
 <item>
 <title>Star Vijay TV USA</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=geminiest swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
+<link>rtmpe://68.235.32.30/web2/ token=frACE6aMeGuB playpath=vj_1 swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ timeout=15</link>
 <thumbnail>https://lh5.googleusercontent.com/-u9n4ZWYIOfw/UTUtpsSxMgI/AAAAAAAAAFA/k3DT34bpefo/h113/starvijaytv.png</thumbnail>
 </item>
 
