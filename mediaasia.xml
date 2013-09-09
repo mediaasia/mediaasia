@@ -46,28 +46,18 @@
 </item>
 
 <item>
-<title>Jaya TV India</title>
+<title>Jaya TV</title>
 <link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=jayatv swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
 <thumbnail>https://lh4.googleusercontent.com/-FFcyw7Ah_R0/UTUtf_tHRbI/AAAAAAAAADE/KwypbDacKqw/s425/jayatv.png</thumbnail>
 </item>
 
-<item>
-<title>Jaya TV USA</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk1 playpath=jayatvus900 swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=191</link>
-<thumbnail>https://lh4.googleusercontent.com/-FFcyw7Ah_R0/UTUtf_tHRbI/AAAAAAAAADE/KwypbDacKqw/s425/jayatv.png</thumbnail>
-</item>
-
-<item>
-<title>Jaya Movies</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=jayamovies swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
-<thumbnail>https://lh5.googleusercontent.com/-WaKj5Tap8z0/UTUwmZO6jiI/AAAAAAAAAGw/WmBCrSN7CJA/s425/jmovies.png</thumbnail>
-</item>
-
-<item>
-<title>Jaya Movies USA</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk1 playpath=jayamoviesus900 swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
-<thumbnail>https://lh5.googleusercontent.com/-WaKj5Tap8z0/UTUwmZO6jiI/AAAAAAAAAGw/WmBCrSN7CJA/s425/jmovies.png</thumbnail>
-</item>
+# 1941923
+type=video
+name=Jaya tv
+thumb=http://t2.gstatic.com/images?q=tbn:ANd9GcQZrE3SHd6irTcxzg8hWPsqZVXPgZ-zmxlZfUKUACQZrz7kM0Dj
+URL=http://fm4.channellive.tv/jaya_play?ip=84.227.178.120/24&e=1374043900&h=b3b11e717f0bddb2136a5bc86784f269
+player=default
+rating=-1.00
 
 <item>
 <title>Jaya Max Music</title>
