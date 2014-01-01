@@ -9,17 +9,23 @@
 <items>
 
 
-type=video
-name=Vijay TV
-thumb=http://nytrend.dk/tv/logo/vijay.png
-date=2013-12-26
-URL=rtmpe://50.7.102.194/sunrtmplayback/ app=sunrtmplayback/ playpath=vijaytv_1 token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ swfVfy=true live=true timeout=30
-player=default
-rating=-1.00
-
 <item>
 <title>Star Vijay TV</title>
 <link>rtmpe://50.7.102.194/sunrtmplayback/ app=sunrtmplayback/ playpath=vijaytv_1 token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ swfVfy=true live=true timeout=30
+player=default</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sun_kondattam_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sun KTV</title>
+<link>rtmpe://50.7.102.194/rtmplayback/ktv token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/=true timeout=30
+player=default</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sun_kondattam_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Jaya TV</title>
+<link>http://fm4.channellive.tv/jaya_play?ip=84.227.178.120/24&e=1374043900&h=b3b11e717f0bddb2136a5bc86784f269=true%20timeout=30
 player=default</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sun_kondattam_tv.jpg</thumbnail>
 </item>
@@ -142,6 +148,13 @@ player=default</link>
 <title>Arra TV</title>
 <link>rtmp://flash6.chennaistream.net/130515/livestream swfUrl=http://www.abcmedias.com/flowplayer/flowplayer-3.2.16.swf pageUrl=http://arratv.in/</link>
 <thumbnail>https://lh5.googleusercontent.com/-zTB0DgIbfCI/UTUtfGEflnI/AAAAAAAAACs/KdKi3X62veM/s425/isaiaruvi.png</thumbnail>
+</item>
+
+<item>
+<title>Sun Music</title>
+<link>mms://fm.live.channellive.tv:80/13-SunMusic?ip=62.61.150.14=true%20timeout=15
+player=default</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sun_kondattam_tv.jpg</thumbnail>
 </item>
 
 <item>
