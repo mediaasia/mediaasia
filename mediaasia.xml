@@ -12,7 +12,7 @@
 
 <item>
 <title>Star Vijay TV</title>
-<link>rtmpe://50.7.102.194/sunrtmplayback/app=sunrtmplayback/vijaytv_1 token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf swfVfy=true live=true timeout=30 pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx</link>
+<link>rtmpe://50.7.102.194/sunrtmplayback/app=sunrtmplayback/vijaytv_1 token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx</link>
 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sun_kondattam_tv.jpg</thumbnail>
 </item>
 
