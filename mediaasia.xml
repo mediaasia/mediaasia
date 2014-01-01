@@ -9,6 +9,13 @@
 <items>
 
 
+
+<item>
+<title>Star Vijay TV</title>
+<link>rtmpe://50.7.102.194/sunrtmplayback/ app=sunrtmplayback/ playpath=vijaytv_1 token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf swfVfy=true live=true timeout=30 pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sun_kondattam_tv.jpg</thumbnail>
+</item>
+
 <item>
 <title>Dheeran TV</title>
 <link>rtmp://50.7.175.252:1940/base2/asia14.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/dheeran-tv-live/</link>
@@ -72,6 +79,12 @@
 <item>
 <title>Shalini TV</title>
 <link>rtmp://live.wmncdn.net/shalini//7bb6687be4c09693ced378f17133c850.sdp swfurl=http://player-emea-uk.webmobilive.com/player/liveplayer.swf pageUrl=http://shalinitv.com/</link>
+<thumbnail>https://lh3.googleusercontent.com/-zeg45HyMASk/UTUtgn5jAII/AAAAAAAAADU/SwdIlByLx4c/s425/makkaltv.png</thumbnail>
+</item>
+
+<item>
+<title>Imayam TV</title>
+<link>rtmp://38.96.148.172/live//robinson swfurl=http://www.iwaystream.com/remote2/player/player-default.swf pageUrl=http://www.imayamtv.com</link>
 <thumbnail>https://lh3.googleusercontent.com/-zeg45HyMASk/UTUtgn5jAII/AAAAAAAAADU/SwdIlByLx4c/s425/makkaltv.png</thumbnail>
 </item>
 
@@ -148,14 +161,14 @@
 </item>
 
 <item>
-<title>Jaya Plus (News)</title>
-<link>rtmp://127.0.0.1:60001/live/gtcdnfreedocastjayaplusauto swfUrl=http://cdn.freedocast.com/player-octo/yume/v5/infinite-hd-player-YUPPTV.SWF pageUrl=http://www.aplatestnews.com/livetv.php?tvid=39</link>
-<thumbnail>https://lh6.googleusercontent.com/-UyfArP-EGIo/UTUtfkOyF6I/AAAAAAAAADM/kP4AxxFzo90/s425/jayaplus.png</thumbnail>
+<title>Thanthi TV (News)</title>
+<link>rtmp://50.7.175.252:1940/base2/tamil29.stream swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://tamiltv.tv/thanthi-tv/</link>
+<thumbnail>https://lh3.googleusercontent.com/-iNd_ySxwMHs/UTUtq4w20vI/AAAAAAAAAGE/EGT6ycgbmBU/s425/thanthitv.png<thumbnail>
 </item>
 
 <item>
-<title>Thanthi TV (News)</title>
-<link>rtmp://50.7.175.252:1940/base2/tamil29.stream swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://tamiltv.tv/thanthi-tv/</link>
+<title>Jaya Plus (News)</title>
+<link>rtmp://78.46.17.7/live//myStream.sdp swfUrl=http://www.ncast.com/player.swf pageUrl=http://jayaplus.jayanewslive.com/default.aspx</link>
 <thumbnail>https://lh3.googleusercontent.com/-iNd_ySxwMHs/UTUtq4w20vI/AAAAAAAAAGE/EGT6ycgbmBU/s425/thanthitv.png<thumbnail>
 </item>
 
@@ -163,12 +176,6 @@
 <title>Lotus News</title>
 <link>rtmp://live.wmncdn.net/lotus//25526e8cfa035fc30910e40b3f2e4348.sdp swfUrl=http://player-emea-uk.webmobilive.com/player/liveplayer.swf live=true pageUrl=http://lotusnews.tv/</link>
 <thumbnail>https://lh3.googleusercontent.com/-qRua8QR3OeA/UTUtgclcDaI/AAAAAAAAAD8/Ook2oNW3nc0/s425/lotusnews.png<thumbnail>
-</item>
-
-<item>
-<title>Raj News 24x7</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk1 playpath=rajnewstamil swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=151</link>
-<thumbnail>https://lh4.googleusercontent.com/-YG2NhNMCYoU/UTUtmaxZklI/AAAAAAAAAEY/eAsWQonQSAM/s425/rajnews.png<thumbnail>
 </item>
 
 <item>
@@ -197,7 +204,7 @@
 
 <item>
 <title>Vasantham TV (Sri Lanka)</title>
-<link>rtmp://mediacp2.comcities.com:1935/itn-vasantham playpath=itn-vasantham swfUrl=http://cdn.itnlanka.com/vasanthamtv.swf pageUrl=http://cdn.itnlanka.com/vasanthamtv.swf</link>
+<link>rtmp://mediacp2.comcities.com/itn-vasantham/itn-vasantham swfUrl=http://cdn.itnlanka.com/vasanthamtv.swf pageUrl=http://cdn.itnlanka.com/vasanthamtv.swf</link>
 <thumbnail>https://lh5.googleusercontent.com/-Gok8dgdyhSA/UTXdznEp0_I/AAAAAAAAAIc/9EP1PH5bqFY/s425/vasanthamtvsl.png</thumbnail>
 </item>
 
@@ -205,12 +212,6 @@
 <title>DAN Yaarl Oli</title>
 <link>rtmp://flash86.ustream.tv:1935/ustreamVideo/8774680/ playpath=streams/live swfUrl=http://static-cdn1.ustream.tv/swf/live/viewer.rsl:96.swf swfVfy=1 live=1</link>
 <thumbnail>https://lh3.googleusercontent.com/-LcH7yyVOKgE/UV9FYwpwF4I/AAAAAAAAAKI/1Ds2Nw_zKPE/s425/danyaarloli.png</thumbnail>
-</item>
-
-<item>
-<title>Deekshana TV</title>
-<link>rtmp://mobile.mslive.co.in:2121/live//gdee swfUrl=http://mslive.co.in/jw/player.swf pageUrl=http://www.deekshana.tv</link>
-<thumbnail>https://lh5.googleusercontent.com/-Ys5WPw4Mehg/UXcDqmdPNZI/AAAAAAAAAK0/m1kPYzwqumE/s425/deekshanatv.png</thumbnail>
 </item>
 
 <item>
