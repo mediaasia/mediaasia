@@ -8,6 +8,12 @@
 <thumbnail></thumbnail>
 <items>
 
+<item>
+<title>Deepam TV</title>
+<link>URL=http://88.150.177.146/1-Sun/mystream.m3u8
+player=default</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sun_kondattam_tv.jpg</thumbnail>
+</item>
 
 <item>
 <title>Star Vijay TV</title>
@@ -38,6 +44,20 @@ player=default</link>
 </item>
 
 <item>
+<title>Minnal Movies</title>
+<link>rtmpe://68.235.37.141/minnalwebs/mmovies11 token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/=true timeout=120
+player=default</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sun_kondattam_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Minnal Vellithirai</title>
+<link>rtmpe://68.235.37.141/minnalwebs/mvelli token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/=true timeout=150
+player=default</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sun_kondattam_tv.jpg</thumbnail>
+</item>
+
+<item>
 <title>Dheeran TV</title>
 <link>rtmp://50.7.175.252:1940/base2/asia14.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/dheeran-tv-live/</link>
 <thumbnail>https://lh6.googleusercontent.com/-y1H3zr30650/UXcDq-1PGYI/AAAAAAAAALE/4RbymP8TSxQ/s425/dheerantv.png</thumbnail>
@@ -62,6 +82,13 @@ player=default</link>
 </item>
 
 <item>
+<title>Kalaignar TV Europe</title>
+<link>rtmpe://68.235.32.21/tshift/kalaiest token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/=true timeout=120
+player=default</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sun_kondattam_tv.jpg</thumbnail>
+</item>
+
+<item>
 <title>Kalaignar TV</title>
 <link>rtmp://50.7.175.253:1939/base2/kalai0.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://eettv.com/</link>
 <thumbnail>https://lh3.googleusercontent.com/-7W1SEoplfl8/UTUQdpWv7_I/AAAAAAAAABY/kDi-fTbKB54/s425/kalaignartv.png</thumbnail>
@@ -77,6 +104,13 @@ player=default</link>
 <title>Kalaignar Sirippoli</title>
 <link>rtmp://50.7.175.253:1939/base2/kalai3.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/sirippoli-tv/</link>
 <thumbnail>https://lh5.googleusercontent.com/-VuVKXD0zNP0/UTUtonZBFsI/AAAAAAAAAFM/3BsY9w1m080/s425/sirippoli.png</thumbnail>
+</item>
+
+<item>
+<title>Minnal Comedy</title>
+<link>rtmpe://68.235.37.141/minnalwebs/mcomedy1 app=minnalwebs/ playpath=mcomedy1 token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ swfVfy=true live=true timeout=15
+player=default</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sun_kondattam_tv.jpg</thumbnail>
 </item>
 
 <item>
