@@ -45,6 +45,13 @@ player=default</link>
 </item>
 
 <item>
+<title>Minnal Vannathirai</title>
+<link>rtmpe://68.235.37.141/minnalwebs/ playpath=mvannathirai swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB pageURL=http://www.watchsuntv.com/play swfVfy=true live=true timeout=12
+player=default</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sun_kondattam_tv.jpg</thumbnail>
+</item>
+
+<item>
 <title>Minnal Vellithirai</title>
 <link>rtmpe://68.235.37.141/minnalwebs/mvelli token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/=true timeout=150
 player=default</link>
@@ -95,6 +102,13 @@ player=default</link>
 </item>
 
 <item>
+<title>Minnal Classic Music</title>
+<link>rtmpe://68.235.37.141/minnalwebs/ playpath=mclassic1 swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB pageURL=http://www.watchsuntv.com/play swfVfy=true live=true timeout=12
+player=default</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sun_kondattam_tv.jpg</thumbnail>
+</item>
+
+<item>
 <title>Kalaignar Sirippoli</title>
 <link>rtmp://50.7.175.253:1939/base2/kalai3.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/sirippoli-tv/</link>
 <thumbnail>https://lh5.googleusercontent.com/-VuVKXD0zNP0/UTUtonZBFsI/AAAAAAAAAFM/3BsY9w1m080/s425/sirippoli.png</thumbnail>
@@ -123,6 +137,20 @@ player=default</link>
 <title>Makkal TV</title>
 <link>rtmp://50.7.175.252:1940/base2/tamil20.stream swfurl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/makkal-live/</link>
 <thumbnail>https://lh3.googleusercontent.com/-zeg45HyMASk/UTUtgn5jAII/AAAAAAAAADU/SwdIlByLx4c/s425/makkaltv.png</thumbnail>
+</item>
+
+<item>
+<title>Minnal Food</title>
+<link>rtmpe://68.235.37.141/minnalwebs/ playpath=mfood swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB pageURL=http://www.watchsuntv.com/play swfVfy=true live=true timeout=12
+player=default</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sun_kondattam_tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Minnal Food</title>
+<link>rtmpe://68.235.37.141/minnalwebs/ playpath=mfood swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB pageURL=http://www.watchsuntv.com/play swfVfy=true live=true timeout=12
+player=default</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sun_kondattam_tv.jpg</thumbnail>
 </item>
 
 <item>
@@ -189,6 +217,13 @@ player=default</link>
 <title>Isai Aruvi</title>
 <link>rtmp://50.7.175.253:1939/base2/kalai2.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/isai-aruvi-live/</link>
 <thumbnail>https://lh5.googleusercontent.com/-zTB0DgIbfCI/UTUtfGEflnI/AAAAAAAAACs/KdKi3X62veM/s425/isaiaruvi.png</thumbnail>
+</item>
+
+<item>
+<title>Minnal Hits HD</title>
+<link>rtmpe://68.235.37.141/minnalwebs/mhitshd1 token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/=true timeout=150
+player=default</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sun_kondattam_tv.jpg</thumbnail>
 </item>
 
 <item>
