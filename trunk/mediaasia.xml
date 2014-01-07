@@ -13,49 +13,49 @@
 <title>Star Vijay TV</title>
 <link>rtmpe://50.7.102.194/sunrtmplayback/ app=sunrtmplayback/ playpath=vijaytv_1 token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ swfVfy=true live=true timeout=30
 player=default</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sun_kondattam_tv.jpg</thumbnail>
+<thumbnail>https://lh5.googleusercontent.com/-u9n4ZWYIOfw/UTUtpsSxMgI/AAAAAAAAAFY/8w2dJvR3wdA/w425-h134-no/starvijaytv.png</thumbnail>
 </item>
 
 <item>
 <title>Sun TV</title>
 <link>rtmpe://50.7.102.194/sunrtmplayback/suntv4_1 token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/=true timeout=120
 player=default</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sun_kondattam_tv.jpg</thumbnail>
+<thumbnail>https://lh5.googleusercontent.com/-hb8LAYYmz50/UTUtqSlwE5I/AAAAAAAAAF0/sflsSq8-iqc/w425-h134-no/suntv.png</thumbnail>
 </item>
 
 <item>
 <title>Sun KTV</title>
 <link>rtmpe://50.7.102.194/rtmplayback/ktv token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/=true timeout=30
 player=default</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sun_kondattam_tv.jpg</thumbnail>
+<thumbnail>https://lh4.googleusercontent.com/-OJfrQxVTqPc/UTUtgGRSLRI/AAAAAAAAADQ/nmp5GJc1Et4/w425-h134-no/ktv.png</thumbnail>
 </item>
 
 <item>
 <title>Sun Adithya TV</title>
 <link>rtmpe://68.235.37.94/rtmplayback/ app=rtmplayback/ playpath=adithya token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ swfVfy=true live=true timeout=15
 player=default</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sun_kondattam_tv.jpg</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/--RIqIwY8LEw/UTU0YCqlq4I/AAAAAAAAAHI/7o_MgxzF15A/w425-h134-no/adithyatv.png</thumbnail>
 </item>
 
 <item>
 <title>Minnal Movies</title>
 <link>rtmpe://68.235.37.141/minnalwebs/mmovies11 token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/=true timeout=120
 player=default</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sun_kondattam_tv.jpg</thumbnail>
+<thumbnail>https://lh4.googleusercontent.com/-xFVKzUK5CZQ/UsxruWoUVPI/AAAAAAAAANc/AVIdTBXc8qk/w425-h134-no/minnalmovies.png</thumbnail>
 </item>
 
 <item>
 <title>Minnal Vannathirai</title>
 <link>rtmpe://68.235.37.141/minnalwebs/ playpath=mvannathirai swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB pageURL=http://www.watchsuntv.com/play swfVfy=true live=true timeout=12
 player=default</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sun_kondattam_tv.jpg</thumbnail>
+<thumbnail>https://lh6.googleusercontent.com/-6lxJ9zD7so8/UsxruSgI1MI/AAAAAAAAANM/bm90Iqx3MOg/w425-h134-no/minnalvannathirai.png</thumbnail>
 </item>
 
 <item>
 <title>Minnal Vellithirai</title>
 <link>rtmpe://68.235.37.141/minnalwebs/mvelli token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/=true timeout=150
 player=default</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sun_kondattam_tv.jpg</thumbnail>
+<thumbnail>https://lh6.googleusercontent.com/-1YgGNCjtGOU/UsxruajqL2I/AAAAAAAAANU/3cgd_mnBEoI/w425-h134-no/minnalvellithirai.png</thumbnail>
 </item>
 
 <item>
@@ -67,31 +67,31 @@ player=default</link>
 <item>
 <title>Puthu Yugam TV</title>
 <link>rtmp://50.7.175.252:1940/base2/tamil9.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/puthuyugam-tv-live/</link>
-<thumbnail>https://lh6.googleusercontent.com/-McpiYO9go5w/UTUtnJRwU1I/AAAAAAAAAE4/nMktThgVLr0/s425/puthiyathalaimurai.png</thumbnail>
+<thumbnail>https://lh4.googleusercontent.com/-sdEuPa352T4/Usxrv7tiKNI/AAAAAAAAANw/lUu-NeGhkfM/w425-h134-no/puthuyugamtv.png</thumbnail>
 </item>
 
 <item>
 <title>Jaya Movies</title>
 <link>rtmp://50.7.175.252:1940/base2/tamil28.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/jaya-movies-live/</link>
-<thumbnail>https://lh6.googleusercontent.com/-McpiYO9go5w/UTUtnJRwU1I/AAAAAAAAAE4/nMktThgVLr0/s425/puthiyathalaimurai.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/-GT_d9txQz6I/UsxrtReLtTI/AAAAAAAAAM0/kC6b-RB9wfI/w425-h134-no/jmovie.png</thumbnail>
 </item>
 
 <item>
 <title>EET TV Canada</title>
 <link>rtmp://37.59.17.222/secure/live swfUrl=http://eettv.com/player.swf pageUrl=http://tamiltv.tv/jaya-movies-live/</link>
-<thumbnail>https://lh6.googleusercontent.com/-McpiYO9go5w/UTUtnJRwU1I/AAAAAAAAAE4/nMktThgVLr0/s425/puthiyathalaimurai.png</thumbnail>
+<thumbnail>https://lh5.googleusercontent.com/-neVu0-Un6eo/UsxrsjQ0k7I/AAAAAAAAAMs/2sAvdp6w-cQ/w425-h134-no/eettv.png</thumbnail>
 </item>
 
 <item>
 <title>Kalaignar TV Europe</title>
 <link>rtmpe://68.235.32.21/tshift/kalaiest token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/=true timeout=120
 player=default</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sun_kondattam_tv.jpg</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/-7W1SEoplfl8/UTUQdpWv7_I/AAAAAAAAABY/kDi-fTbKB54/s425/kalaignartv.png</thumbnail>
 </item>
 
 <item>
 <title>Kalaignar TV</title>
-<link>rtmp://50.7.175.253:1939/base2/kalai0.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://eettv.com/</link>
+<link>rtmp://50.7.175.253:1939/base2/kalai0.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/kalaignar-tv-live/</link>
 <thumbnail>https://lh3.googleusercontent.com/-7W1SEoplfl8/UTUQdpWv7_I/AAAAAAAAABY/kDi-fTbKB54/s425/kalaignartv.png</thumbnail>
 </item>
 
@@ -118,13 +118,13 @@ player=default</link>
 <title>Minnal Comedy</title>
 <link>rtmpe://68.235.37.141/minnalwebs/mcomedy1 app=minnalwebs/ playpath=mcomedy1 token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ swfVfy=true live=true timeout=15
 player=default</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sun_kondattam_tv.jpg</thumbnail>
+<thumbnail>https://lh4.googleusercontent.com/-Tz_PM0TlGqY/UsxrtRJQfSI/AAAAAAAAANE/Wv0p-TELJQc/w425-h134-no/minnalcomedy.png</thumbnail>
 </item>
 
 <item>
 <title>Peppers TV</title>
 <link>rtmp://live.wmncdn.net/peppers//peppers.stream swfUrl=http://player-emea-uk.webmobilive.com/player/liveplayer.swf pageUrl=http://pepperstv.com/</link>
-<thumbnail>https://lh5.googleusercontent.com/-VuVKXD0zNP0/UTUtonZBFsI/AAAAAAAAAFM/3BsY9w1m080/s425/sirippoli.png</thumbnail>
+<thumbnail>https://lh5.googleusercontent.com/-rZ68QKkG9cI/UsxrvLMCq4I/AAAAAAAAANg/C7xmqmWv4d0/w425-h134-no/pepperstv.png</thumbnail>
 </item>
 
 <item>
@@ -143,26 +143,19 @@ player=default</link>
 <title>Minnal Food</title>
 <link>rtmpe://68.235.37.141/minnalwebs/ playpath=mfood swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB pageURL=http://www.watchsuntv.com/play swfVfy=true live=true timeout=12
 player=default</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sun_kondattam_tv.jpg</thumbnail>
-</item>
-
-<item>
-<title>Minnal Food</title>
-<link>rtmpe://68.235.37.141/minnalwebs/ playpath=mfood swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB pageURL=http://www.watchsuntv.com/play swfVfy=true live=true timeout=12
-player=default</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sun_kondattam_tv.jpg</thumbnail>
+<thumbnail>https://lh6.googleusercontent.com/-kxxW2hSSsmE/Usxrte42E_I/AAAAAAAAAM8/r_Whf_xJdW4/w425-h134-no/minnalfood.png</thumbnail>
 </item>
 
 <item>
 <title>Shalini TV</title>
 <link>rtmp://live.wmncdn.net/shalini//7bb6687be4c09693ced378f17133c850.sdp swfurl=http://player-emea-uk.webmobilive.com/player/liveplayer.swf pageUrl=http://shalinitv.com/</link>
-<thumbnail>https://lh3.googleusercontent.com/-zeg45HyMASk/UTUtgn5jAII/AAAAAAAAADU/SwdIlByLx4c/s425/makkaltv.png</thumbnail>
+<thumbnail>https://lh4.googleusercontent.com/-EviOCTcK7dE/Usxrv2UuF3I/AAAAAAAAANs/y8O_aTeJkAo/w425-h134-no/shalinitv.png</thumbnail>
 </item>
 
 <item>
 <title>Imayam TV</title>
 <link>rtmp://38.96.148.172/live//robinson swfurl=http://www.iwaystream.com/remote2/player/player-default.swf pageUrl=http://www.imayamtv.com</link>
-<thumbnail>https://lh3.googleusercontent.com/-zeg45HyMASk/UTUtgn5jAII/AAAAAAAAADU/SwdIlByLx4c/s425/makkaltv.png</thumbnail>
+<thumbnail>https://lh6.googleusercontent.com/-F6wdRTmQeHI/UsxrsqqlzeI/AAAAAAAAAMk/PGwE4j7MJEg/w425-h134-no/imayamtv.png</thumbnail>
 </item>
 
 <item>
@@ -275,12 +268,6 @@ player=default</link>
 </item>
 
 <item>
-<title>Sun News</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=MfNhFWeFTuI</link>
-<thumbnail>https://lh6.googleusercontent.com/-tomTxm7yLQc/UV9GLYz1XII/AAAAAAAAAKQ/zryAJHIaL8A/s425/sunnews.png</thumbnail>
-</item>
-
-<item>
 <title>Sathiyam TV (News)</title>
 <link>rtmp://50.7.175.252:1940/base2/asia12.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/sathiyam-tv-live/</link>
 <thumbnail>https://lh5.googleusercontent.com/-2pT6pfANZPk/UTUtn1iEj2I/AAAAAAAAAEs/RcvaV2_Fjag/s425/sathiyamtv.png</thumbnail>
@@ -290,12 +277,6 @@ player=default</link>
 <title>Vasantham TV (Sri Lanka)</title>
 <link>rtmp://mediacp2.comcities.com/itn-vasantham/itn-vasantham swfUrl=http://cdn.itnlanka.com/vasanthamtv.swf pageUrl=http://cdn.itnlanka.com/vasanthamtv.swf</link>
 <thumbnail>https://lh5.googleusercontent.com/-Gok8dgdyhSA/UTXdznEp0_I/AAAAAAAAAIc/9EP1PH5bqFY/s425/vasanthamtvsl.png</thumbnail>
-</item>
-
-<item>
-<title>DAN Yaarl Oli</title>
-<link>rtmp://flash86.ustream.tv:1935/ustreamVideo/8774680/ playpath=streams/live swfUrl=http://static-cdn1.ustream.tv/swf/live/viewer.rsl:96.swf swfVfy=1 live=1</link>
-<thumbnail>https://lh3.googleusercontent.com/-LcH7yyVOKgE/UV9FYwpwF4I/AAAAAAAAAKI/1Ds2Nw_zKPE/s425/danyaarloli.png</thumbnail>
 </item>
 
 <item>
@@ -318,405 +299,7 @@ player=default</link>
 -->
 
 
-<channel>
-<name>English TV Channels</name>
-<thumbnail></thumbnail>
-<items>
-
-<item>
-<title>Animal Planet</title>
-<link>rtmp://tv.webport.tv/promo2/mtv swfUrl=http://player.longtailvideo.com/player5.9.swf live=true pageUrl=http://livetvchannelsinfree.net/animalplanethd.html</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Disney Channel</title>
-<link>rtmp://80.82.78.37/cast?ovpfv=2.1.4/disney_channel swfUrl=http://95.211.219.184/LiveVideoPlayer.swf pageUrl=http://www.99cast.com/embed.php?v=disney_channel&vw=600&vh=450&domain=pogotv.eu</link>
-<thumbnail>http://3.bp.blogspot.com/_FLqleQgRHAw/SN_CWzFOqaI/AAAAAAAAC08/oyiYqrZEadE/s400/DisneyChannelLogo.png</thumbnail>
-</item>
-
-<item>
-<title>Cartoon Network</title>
-<link>rtmp://cdn.livecaster.tv/stream/cartooni9 swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=cartooni9&vw=600&vh=430</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Nickelodeon USA</title>
-<link>rtmp://cdn.livecaster.tv/stream/nickkp swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=nickkp&vw=600&vh=430</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Discovery Channel USA</title>
-<link>rtmp://live.ukcast.tv/broadcast/discoveryu swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=discoveryu&vw=600&vh=430</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>BBC World News</title>
-<link>rtmp://cdn.livecaster.tv/live playpath=bbcworldnews.stream swfUrl=http://www.wcast.tv/player/player.swf live=true pageUrl=http://www.wcast.tv/embed.php?u=bbcworldnews&vw=600&vh=430 timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>CNN</title>
-<link>rtmp://live.ukcast.tv/broadcast playpath=cnn1.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=cnn1&vw=600&vh=430 timeout=15</link>
-<thumbnail></thumbnail> 
-</item>
-
-<item>
-<title>Food Network</title>
-<link>rtmp://5.39.65.109/edge playpath=r7oi6ylf755rcno swfUrl=http://static.ilive.to/jwplayer/player_embed.swf swfVfy=true live=true pageUrl=http://www.ilive.to/embedplayer.php?width=640&height=430&channel=40158& timeout=15</link>
-<thumbnail></thumbnail>
-</item> 
-
-</items>
-</channel>
-
-<!-- ================================================================================?==== 
-
--->
-
-<channel>
-<name>Hindi TV Channels</name>
-<thumbnail></thumbnail>
-<items>
-
-<item>
-<title>Zee Cinema</title>
-<link>rtmp://cdn.nwk3.yupptv.tv/nwk3 playpath=zeecinema swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx timeout=15</link>
-<thumbnail>http://www.ladybrillestars.com/wp-content/uploads/2010/03/Zee-Cinema.jpg</thumbnail>
-</item>
-
-<item>
-<title>Zee TV USA</title>
-<link>rtmp://live.ukcast.tv/broadcast playpath=zee_tv98.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=zee_tv98&vw=600&vh=430 timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Zee TV</title>
-<link>rtmp://live.ukcast.tv/broadcast playpath=zee_tv98.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=zee_tv98&vw=600&vh=430 timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sony TV HD</title>
-<link>rtmp://cdn.livecaster.tv/stream playpath=sonyhd swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=sonyhd&vw=600&vh=430 timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>B4U Movies</title>
-<link>rtmp://cdn.nwk3.yupptv.tv/nwk3 playpath=b4umovies swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Star Plus HD (NOT ALWAYS ONLINE)</title>
-<link>rtmp://cdn.livecaster.tv/stream playpath=starplushdd swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=starplushdd&vw=600&vh=430 timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Star GOld HD</title>
-<link>rtmp://cdn.livecaster.tv/broadcast playpath=stargold_hd.stream swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=stargold_hd&vw=600&vh=430 timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Life OK</title>
-<link>rtmp://live.ukcast.tv/broadcast playpath=life_ok.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=life_ok&vw=600&vh=430 timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Set MAX HD</title>
-<link>rtmp://live.ukcast.tv/broadcast playpath=set_max98.stream swfUrl=http://www.ukcast.tv/player/player.swf live=true pageUrl=http://www.ukcast.tv/embed.php?u=set_max98&vw=600&vh=430 timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Zee Smile</title>
-<link>rtmp://50.7.190.130:1939/base2/dd16.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/zee-smile/</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Filmy</title>
-<link>rtmp://23.21.155.146/zengalive/ playpath=zenga1juneclusterfilmy150.sdp swfUrl=http://player.longtailvideo.com/player5.9.swf live=true pageUrl=http://www.newtvworld.com/livetv/india/moviesok.html timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>9X Music</title>
-<link>rtmp://cdn.livecaster.tv/stream playpath=9xmlow1.stream swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=9xmlow1&vw=600&vh=430 timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Discovery Channel Hindi</title>
-<link>rtmp://cdn.livecaster.tv/broadcast playpath=115521 swfUrl=http://www.livecaster.tv/player/player.swf live=true pageUrl=http://www.livecaster.tv/embed.php?u=discoveryhindi&vw=600&vh=470 timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>DD National</title>
-<link>rtmp://live.wcast.tv/stream playpath=dd_national.stream swfUrl=http://www.wcast.tv/player/player.swf live=true pageUrl=http://www.wcast.tv/embed.php?u=dd_national&vw=600&vh=430 timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Aastha Bhajan</title>
-<link>rtmp://50.7.190.130:1939/base2/dd5.stream playpath=dd_national.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true pageUrl=http://www.turbotv.in/aastha-bhajan/</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Aastha TV</title>
-<link>rtmp://50.7.190.130:1939/base2/dd6.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true pageUrl=http://www.turbotv.in/aastha-devotional-channel/</link>
-<thumbnail></thumbnail>
-</item>
-
-</items>
-</channel>
-
-<!-- ================================================================================?==== 
-
--->
-
-<channel>
-<name>Malayalam TV Channels</name>
-<thumbnail></thumbnail>
-<items>
-
-
-<item>
-<title>Surya TV</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=surya swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=15</link>
-<thumbnail>http://tv.onlinemoviesportsandtv.com/wp-content/uploads/2012/10/Surya-TV.jpg</thumbnail>
-</item>
-
-<item>
-<title>Kiran TV</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk3 playpath=kirantv swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?Chanld=9 timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Kairali TV</title>
-<link>rtmp://50.7.190.83/base2/tamil2.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true pageUrl=http://www.turbotv.in/kairali-tv-live/</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Kairali WE</title>
-<link>rtmp://50.7.190.83/base2/tamil4.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/kairali-we-live/</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Asianet Middle East</title>
-<link>rtmp://50.7.188.211/base2/asia1.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/asianet-middle-east-live/</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Asianet Movies</title>
-<link>rtmp://50.7.188.211/base2/asia15.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/asianet-movies-live/</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Asianet News</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=asianet swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>YES Indiavision</title>
-<link>rtmp://50.7.190.130:1939/base2/hmtv2.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/yes-indiavision-live/</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Kaumudy TV</title>
-<link>rtmp://50.7.190.134/base2/asia11.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/kaumudy-tv-live/</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Jeevan TV</title>
-<link>rtmp://50.7.190.130:1939/base2/asia4.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/jeevan-tv-live/</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Mazhavil Manorama</title>
-<link>rtmp://50.7.188.211/base2/maha2.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/mazhavil-manorama-live/</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>DD Malayalam</title>
-<link>rtmp://50.7.190.134/base2/dd9.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-malayalam-live/</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Kappa TV</title>
-<link>rtmp://50.7.188.212:1939/base2/asia18.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/kappa-tv/</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Raj Musix Malayalam</title>
-<link>rtmp://50.7.190.130:1939/base2/raj3.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/raj-musix-malayalm/</link>
-<thumbnail></thumbnail>
-</item>
-
-</items>
-</channel>
-
-
-<!-- ================================================================================?==== 
-
--->
-
-<channel>
-<name>Telugu TV Channels</name>
-<thumbnail></thumbnail>
-<items>
-
-<item>
-<title>Maa Music</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=maamusic swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Maa TV</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=maatv swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Maa Movies</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk1 playpath=maamovies900 swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Maa Gold</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk1 playpath=maajuniors900 swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Vissa TV</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=vissa swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Zee Telugu</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=zeetel swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Gemini TV</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=gemini swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Gemini Movies </title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=geminimovies swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>ETV</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=etv swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>ETV2</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=etv2 swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>DD Saptagiri</title>
-<link>rtmp://50.7.190.134/base2/dd11.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/dd-sapthagiri-live/</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>CVR Health</title>
-<link>rtmp://50.7.190.134/base2/hmtv9.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/cvr-health/</link>
-<thumbnail></thumbnail>
-</item> 
-
-</items>
-</channel>
-
-<!-- ================================================================================?==== 
-
--->
-
-
-<channel>
-<name>Kannada TV Channels</name>
-<thumbnail></thumbnail>
-<items>
-
-<item>
-<title>Raj Music</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=rajmusickannada swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>ETV Kannada</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=etvkan swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Zee Kannada</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk3 playpath=zeekannada swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Udaya TV</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=udaya swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Suvarna TV</title>
-<link>rtmp://cdn.rtmp1.yupptv.tv/nwk playpath=suvarna swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf swfVfy=true live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx?ChanId=9 timeout=15</link>
-<thumbnail></thumbnail>
-</item>
-
-
-</items>
-</channel>
-
-<!-- ================================================================================?==== 
-
--->
-
-
 </channels>
-
-
-
 
 
 
