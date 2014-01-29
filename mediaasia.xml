@@ -10,38 +10,16 @@
 
 
 <item>
-<title>Star Vijay TV</title>
-<link>rtmpe://50.7.102.194/sunrtmplayback/ app=sunrtmplayback/ playpath=vijaytv_1 token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ swfVfy=true live=true timeout=30
-player=default</link>
-<thumbnail>https://lh5.googleusercontent.com/-u9n4ZWYIOfw/UTUtpsSxMgI/AAAAAAAAAFY/8w2dJvR3wdA/w425-h134-no/starvijaytv.png</thumbnail>
-</item>
-
-<item>
-<title>Sun TV</title>
-<link>rtmpe://50.7.102.194/sunrtmplayback/suntv4_1 token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/=true timeout=120
-player=default</link>
-<thumbnail>https://lh5.googleusercontent.com/-hb8LAYYmz50/UTUtqSlwE5I/AAAAAAAAAF0/sflsSq8-iqc/w425-h134-no/suntv.png</thumbnail>
-</item>
-
-<item>
-<title>Sun KTV</title>
-<link>rtmpe://50.7.102.194/rtmplayback/ktv token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/=true timeout=30
-player=default</link>
-<thumbnail>https://lh4.googleusercontent.com/-OJfrQxVTqPc/UTUtgGRSLRI/AAAAAAAAADQ/nmp5GJc1Et4/w425-h134-no/ktv.png</thumbnail>
-</item>
-
-<item>
-<title>Sun Adithya TV</title>
-<link>rtmpe://68.235.37.94/rtmplayback/ app=rtmplayback/ playpath=adithya token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ swfVfy=true live=true timeout=15
-player=default</link>
-<thumbnail>https://lh3.googleusercontent.com/--RIqIwY8LEw/UTU0YCqlq4I/AAAAAAAAAHI/7o_MgxzF15A/w425-h134-no/adithyatv.png</thumbnail>
+<title>EET TV Canada</title>
+<link>rtmp://37.59.17.222/secure/live swfUrl=http://eettv.com/player.swf pageUrl=http://tamiltv.tv/jaya-movies-live/</link>
+<thumbnail>https://lh5.googleusercontent.com/-neVu0-Un6eo/UsxrsjQ0k7I/AAAAAAAAAMs/2sAvdp6w-cQ/w425-h134-no/eettv.png</thumbnail>
 </item>
 
 <item>
 <title>Minnal Movies</title>
 <link>rtmpe://68.235.37.141/minnalwebs/mmovies11 token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/=true timeout=120
 player=default</link>
-<thumbnail>https://lh4.googleusercontent.com/-xFVKzUK5CZQ/UsxruWoUVPI/AAAAAAAAANc/AVIdTBXc8qk/w425-h134-no/minnalmovies.png</thumbnail>
+<thumbnail>https://lh6.googleusercontent.com/-xWIkV4emp98/UulMlwFzC6I/AAAAAAAAAP4/rnoRaWLWzXY/w425-h134-no/minnalmovies.png</thumbnail>
 </item>
 
 <item>
@@ -77,19 +55,6 @@ player=default</link>
 </item>
 
 <item>
-<title>EET TV Canada</title>
-<link>rtmp://37.59.17.222/secure/live swfUrl=http://eettv.com/player.swf pageUrl=http://tamiltv.tv/jaya-movies-live/</link>
-<thumbnail>https://lh5.googleusercontent.com/-neVu0-Un6eo/UsxrsjQ0k7I/AAAAAAAAAMs/2sAvdp6w-cQ/w425-h134-no/eettv.png</thumbnail>
-</item>
-
-<item>
-<title>Kalaignar TV Europe</title>
-<link>rtmpe://68.235.32.21/tshift/kalaiest token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/=true timeout=120
-player=default</link>
-<thumbnail>https://lh3.googleusercontent.com/-7W1SEoplfl8/UTUQdpWv7_I/AAAAAAAAABY/kDi-fTbKB54/s425/kalaignartv.png</thumbnail>
-</item>
-
-<item>
 <title>Kalaignar TV</title>
 <link>rtmp://50.7.175.253:1939/base2/kalai0.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/kalaignar-tv-live/</link>
 <thumbnail>https://lh3.googleusercontent.com/-7W1SEoplfl8/UTUQdpWv7_I/AAAAAAAAABY/kDi-fTbKB54/s425/kalaignartv.png</thumbnail>
@@ -105,7 +70,7 @@ player=default</link>
 <title>Minnal Classic Music</title>
 <link>rtmpe://68.235.37.141/minnalwebs/ playpath=mclassic1 swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB pageURL=http://www.watchsuntv.com/play swfVfy=true live=true timeout=12
 player=default</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sun_kondattam_tv.jpg</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/-gZsrLWDxhIU/UulS9nWLJKI/AAAAAAAAARM/nvk1c3sa7Bc/w425-h134-no/minnalclassic.png</thumbnail>
 </item>
 
 <item>
@@ -119,6 +84,19 @@ player=default</link>
 <link>rtmpe://68.235.37.141/minnalwebs/mcomedy1 app=minnalwebs/ playpath=mcomedy1 token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ swfVfy=true live=true timeout=15
 player=default</link>
 <thumbnail>https://lh4.googleusercontent.com/-Tz_PM0TlGqY/UsxrtRJQfSI/AAAAAAAAANE/Wv0p-TELJQc/w425-h134-no/minnalcomedy.png</thumbnail>
+</item>
+
+<item>
+<title>Shalini TV</title>
+<link>rtmp://live.wmncdn.net/shalini//7bb6687be4c09693ced378f17133c850.sdp swfurl=http://player-emea-uk.webmobilive.com/player/liveplayer.swf pageUrl=http://shalinitv.com/</link>
+<thumbnail>https://lh4.googleusercontent.com/-EviOCTcK7dE/Usxrv2UuF3I/AAAAAAAAANs/y8O_aTeJkAo/w425-h134-no/shalinitv.png</thumbnail>
+</item>
+
+<item>
+<title>Krishna TV</title>
+<link>rtmp://live.wmncdn.net/krishnatv/ playpath=d3776565fce7a0ac5154ef508bc1a05e.sdp swfUrl=http://player-apac-sing.webmobilive.com/jw/player.swf pageUrl=http://livetvchannelsfree.com/krishnatvlive.html
+player=default</link>
+<thumbnail>https://lh5.googleusercontent.com/-20dY_HRhfZc/UulMk53Ev0I/AAAAAAAAAP0/E10hfrFXNdU/w425-h134-no/krishnatv.png</thumbnail>
 </item>
 
 <item>
@@ -140,28 +118,44 @@ player=default</link>
 </item>
 
 <item>
+<title>Imayam TV</title>
+<link>rtmp://38.96.148.172:1935/live/ playpath=robinson swfUrl=http://www.iwaystream.com/remote2/player/player-default.swf live=true timeout=15 pageUrl=http://www.iwaystream.com/remote2/robinson/
+player=default</link>
+<thumbnail>https://lh6.googleusercontent.com/-CygC2c0GTjw/UsxvJlzJnmI/AAAAAAAAAOE/2z2BBYTM9lU/w425-h134-no/imayamtv.png</thumbnail>
+</item>
+
+<item>
 <title>Minnal Food</title>
 <link>rtmpe://68.235.37.141/minnalwebs/ playpath=mfood swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB pageURL=http://www.watchsuntv.com/play swfVfy=true live=true timeout=12
 player=default</link>
-<thumbnail>https://lh6.googleusercontent.com/-kxxW2hSSsmE/Usxrte42E_I/AAAAAAAAAM8/r_Whf_xJdW4/w425-h134-no/minnalfood.png</thumbnail>
+<thumbnail>https://lh6.googleusercontent.com/-7tn-gL8f_6k/UulMk1w7k_I/AAAAAAAAAPk/xDK68vlAND0/w425-h134-no/minnalfood.png</thumbnail>
 </item>
 
 <item>
-<title>Shalini TV</title>
-<link>rtmp://live.wmncdn.net/shalini//7bb6687be4c09693ced378f17133c850.sdp swfurl=http://player-emea-uk.webmobilive.com/player/liveplayer.swf pageUrl=http://shalinitv.com/</link>
-<thumbnail>https://lh4.googleusercontent.com/-EviOCTcK7dE/Usxrv2UuF3I/AAAAAAAAANs/y8O_aTeJkAo/w425-h134-no/shalinitv.png</thumbnail>
+<title>Minnal Travel</title>
+<link>rtmpe://68.235.37.141/minnalwebs/ playpath=mtravel swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB pageURL=http://www.watchsuntv.com/play swfVfy=true live=true timeout=12
+player=default</link>
+<thumbnail>https://lh4.googleusercontent.com/-Adkw6sHouFM/UulMm6qVAwI/AAAAAAAAAQI/3nZbVtp0s9M/w425-h134-no/minnaltravel.png</thumbnail>
 </item>
 
 <item>
-<title>Imayam TV</title>
-<link>rtmp://38.96.148.172/live//robinson swfurl=http://www.iwaystream.com/remote2/player/player-default.swf pageUrl=http://www.imayamtv.com</link>
-<thumbnail>https://lh5.googleusercontent.com/q2pdDUgCJWybYwQVgxnMf21ipFcbdN42gPG7YtQNuFY=w657-h207-p-no</thumbnail>
+<title>Wellness TV</title>
+<link>rtmp://stream.akamain.info:1935/live playpath=divinenoni swfUrl=http://live.akamain.info/player.swf pageUrl=http://live.akamain.info/divinenoni/
+player=default</link>
+<thumbnail>https://lh6.googleusercontent.com/-giIS0TMMuaQ/UulXggdcVCI/AAAAAAAAARw/VUJEFeywwko/w425-h134-no/wellnesstv.png</thumbnail>
 </item>
 
 <item>
-<title>Kalaignar Chithiram</title>
+<title>Kalaignar Chithiram (Kids TV)</title>
 <link>rtmp://50.7.175.253:1939/base2/kalai4.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/chithiram-live/</link>
 <thumbnail>https://lh3.googleusercontent.com/-NdmyoCpkgZI/UTUtekGbbVI/AAAAAAAAAC0/jWxHDStkZOQ/s425/chithiram.png</thumbnail>
+</item>
+
+<item>
+<title>Minnal Kids</title>
+<link>rtmpe://68.235.37.141/minnalwebs/mkids token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/=true timeout=150
+player=default</link>
+<thumbnail>https://lh6.googleusercontent.com/-V4Lwcd5ChaA/UulMl4a_1rI/AAAAAAAAAQM/Ceg9XacMY5c/w425-h134-no/minnalkids.png</thumbnail>
 </item>
 
 <item>
@@ -173,7 +167,7 @@ player=default</link>
 <item>
 <title>MK TV</title>
 <link>rtmp://50.7.175.252:1940/base2/tamil26.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/gtv-spv-live/</link>
-<thumbnail>https://lh4.googleusercontent.com/-Ckz3Qca25Co/UUXcCSzF0RI/AAAAAAAAAI0/Rm6ItYbVspw/s425/mktv.png</thumbnail>
+<thumbnail>https://lh6.googleusercontent.com/-ggry1Zk47_s/UulOzUstDGI/AAAAAAAAAQs/bYWtWIp-awI/w425-h134-no/mktv.png</thumbnail>
 </item>
 
 <item>
@@ -197,7 +191,7 @@ player=default</link>
 <item>
 <title>Vendhar TV</title>
 <link>rtmp://50.7.175.252:1940/base2/tamil5.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/vendhar-tv/</link>
-<thumbnail>https://lh5.googleusercontent.com/-zTB0DgIbfCI/UTUtfGEflnI/AAAAAAAAACs/KdKi3X62veM/s425/isaiaruvi.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/-BrHGs19vq0A/UulXgjz1KlI/AAAAAAAAAR0/KA61ScwZ1yI/w425-h134-no/vendhartv.png</thumbnail>
 </item>
 
 <item>
@@ -216,13 +210,27 @@ player=default</link>
 <title>Minnal Hits HD</title>
 <link>rtmpe://68.235.37.141/minnalwebs/mhitshd1 token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/=true timeout=150
 player=default</link>
-<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sun_kondattam_tv.jpg</thumbnail>
+<thumbnail>https://lh5.googleusercontent.com/-fRFEaTgwHcU/UulMk0ziVFI/AAAAAAAAAPo/Xu6QPobmvrU/w425-h134-no/minnalhitshd.png</thumbnail>
+</item>
+
+<item>
+<title>Minnal Music</title>
+<link>rtmpe://68.235.37.141/minnalwebs/mmusic token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/=true timeout=150
+player=default</link>
+<thumbnail>https://lh5.googleusercontent.com/-VQg5TlFne-s/UulMm8AsuDI/AAAAAAAAAQQ/KEuHbKCvCEI/w425-h134-no/minnalmusic.png</thumbnail>
 </item>
 
 <item>
 <title>7S Music</title>
 <link>rtmp://50.7.175.253:1939/base2/hmtv5.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/7s-music-live/</link>
 <thumbnail>https://lh3.googleusercontent.com/-eC1bS12iWdk/UTUtddLUgQI/AAAAAAAAAB4/sTT-M_gtE_k/s425/7smusic.png</thumbnail>
+</item>
+
+<item>
+<title>Minnal Carnatic</title>
+<link>rtmpe://68.235.37.141/minnalwebs/ playpath=mcarnatic swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB pageURL=http://www.watchsuntv.com/play swfVfy=true live=true timeout=12
+player=default</link>
+<thumbnail>https://lh4.googleusercontent.com/-_BDxLU3VsKE/UulS9upKyVI/AAAAAAAAARU/c7GinLc1CyA/w425-h134-no/minnalcarnatic.png</thumbnail>
 </item>
 
 <item>
@@ -246,7 +254,7 @@ player=default</link>
 <item>
 <title>Jaya Plus (News)</title>
 <link>rtmp://78.46.17.7/live//myStream.sdp swfUrl=http://www.ncast.com/player.swf pageUrl=http://jayaplus.jayanewslive.com/default.aspx</link>
-<thumbnail>https://lh3.googleusercontent.com/-iNd_ySxwMHs/UTUtq4w20vI/AAAAAAAAAGE/EGT6ycgbmBU/s425/thanthitv.png<thumbnail>
+<thumbnail>https://lh4.googleusercontent.com/-UyfArP-EGIo/UTUtfkOyF6I/AAAAAAAAADM/kP4AxxFzo90/w425-h134-no/jayaplus.png<thumbnail>
 </item>
 
 <item>
