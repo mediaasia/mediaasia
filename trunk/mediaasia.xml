@@ -161,7 +161,7 @@ player=default</link>
 
 <item>
 <title>Moon TV</title>
-<link>rtmp://stream.mslive.co.in/live//gmoon1 swfUrl=http://mslive.co.in/jw/player.swf pageUrl=http://www.moontvlive.com/</link>
+<link>rtmp://stream.mslive.co.in/live//gmoon1 swfUrl=http://mslive.co.in/jw/player.swf pageUrl=http://www.moontvlive.com/ player=default</link>
 <thumbnail>https://lh5.googleusercontent.com/-nR9D0EPMZhA/UwPuPm5Rw3I/AAAAAAAAASk/oQBVqgxodHQ/w425-h134-no/moontv.png</thumbnail>
 </item>
 
