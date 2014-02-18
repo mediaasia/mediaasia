@@ -16,41 +16,30 @@
 </item>
 
 <item>
-<title>Minnal Movies</title>
-<link>rtmpe://68.235.37.141/minnalwebs/mmovies11 token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/=true timeout=120
+<title>Super TV</title>
+<link>rtmp://bomtv.5centscdn.com:1935/supertvstream/5852f36461510ecb1d019562172abc0d.sdp
 player=default</link>
-<thumbnail>https://lh6.googleusercontent.com/-xWIkV4emp98/UulMlwFzC6I/AAAAAAAAAP4/rnoRaWLWzXY/w425-h134-no/minnalmovies.png</thumbnail>
-</item>
-
-<item>
-<title>Minnal Vannathirai</title>
-<link>rtmpe://68.235.37.141/minnalwebs/ playpath=mvannathirai swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB pageURL=http://www.watchsuntv.com/play swfVfy=true live=true timeout=12
-player=default</link>
-<thumbnail>https://lh6.googleusercontent.com/-6lxJ9zD7so8/UsxruSgI1MI/AAAAAAAAANM/bm90Iqx3MOg/w425-h134-no/minnalvannathirai.png</thumbnail>
-</item>
-
-<item>
-<title>Minnal Vellithirai</title>
-<link>rtmpe://68.235.37.141/minnalwebs/mvelli token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/=true timeout=150
-player=default</link>
-<thumbnail>https://lh6.googleusercontent.com/-1YgGNCjtGOU/UsxruajqL2I/AAAAAAAAANU/3cgd_mnBEoI/w425-h134-no/minnalvellithirai.png</thumbnail>
+<thumbnail>https://lh4.googleusercontent.com/-5xdPGUoCghg/UVWMoSPrSBI/AAAAAAAAAJI/hta_WYlJR-0/w425-h134-no/supertv.png</thumbnail>
 </item>
 
 <item>
 <title>Dheeran TV</title>
-<link>rtmp://50.7.175.252:1940/base2/asia14.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/dheeran-tv-live/</link>
+<link>rtmp://50.7.175.252:1940/base2 playpath=asia14.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/dheeran-tv-live/
+player=default</link>
 <thumbnail>https://lh6.googleusercontent.com/-y1H3zr30650/UXcDq-1PGYI/AAAAAAAAALE/4RbymP8TSxQ/s425/dheerantv.png</thumbnail>
 </item>
 
 <item>
 <title>Puthu Yugam TV</title>
-<link>rtmp://50.7.175.252:1940/base2/tamil9.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/puthuyugam-tv-live/</link>
+<link>rtmp://50.7.175.252:1940/base2 playpath=tamil9.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/puthuyugam-tv-live/ live=1 timeout=10
+player=default</link>
 <thumbnail>https://lh4.googleusercontent.com/-sdEuPa352T4/Usxrv7tiKNI/AAAAAAAAANw/lUu-NeGhkfM/w425-h134-no/puthuyugamtv.png</thumbnail>
 </item>
 
 <item>
 <title>Jaya Movies</title>
-<link>rtmp://50.7.175.252:1940/base2/tamil28.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/jaya-movies-live/</link>
+<link>rtmp://50.7.175.252:1940/base2 playpath=tamil28.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/jaya-movies-live/
+player=default</link>
 <thumbnail>https://lh3.googleusercontent.com/-GT_d9txQz6I/UsxrtReLtTI/AAAAAAAAAM0/kC6b-RB9wfI/w425-h134-no/jmovie.png</thumbnail>
 </item>
 
