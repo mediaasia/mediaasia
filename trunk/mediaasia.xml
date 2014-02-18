@@ -160,12 +160,6 @@ player=default</link>
 </item>
 
 <item>
-<title>Moon TV</title>
-<link>rtmp://stream.mslive.co.in/live//gmoon1 swfUrl=http://mslive.co.in/jw/player.swf pageUrl=http://www.moontvlive.com/ player=default</link>
-<thumbnail>https://lh5.googleusercontent.com/-nR9D0EPMZhA/UwPuPm5Rw3I/AAAAAAAAASk/oQBVqgxodHQ/w425-h134-no/moontv.png</thumbnail>
-</item>
-
-<item>
 <title>Arra TV</title>
 <link>rtmp://flash6.chennaistream.net/130515/livestream swfUrl=http://www.abcmedias.com/flowplayer/flowplayer-3.2.16.swf pageUrl=http://arratv.in/</link>
 <thumbnail>https://lh6.googleusercontent.com/-PXTKCsLnK_4/Usxw6Zq-7FI/AAAAAAAAAOc/yace3yVouwc/w425-h134-no/arratv.png</thumbnail>
@@ -267,11 +261,6 @@ rating=-1.00</link>
 <thumbnail>https://lh6.googleusercontent.com/--RDseB3KJLs/UTUtpIkAZzI/AAAAAAAAAGM/6KdzBVznAtw/s425/srisankara.png</thumbnail>
 </item>
 
-<item>
-<title>Moon TV</title>
-<link>rtmp://mobile.mslive.co.in:2121/live/gmoon1 swfUrl=http://mslive.co.in/jw/player.swf live=true pageUrl=http://moontv.com/</link>
-<thumbnail>https://lh5.googleusercontent.com/-FzxPt6pxEH8/UTUtiYV2q6I/AAAAAAAAADw/soZX2gag5Uk/s425/moontv.png</thumbnail>
-</item>
 
 </items>
 </channel>
