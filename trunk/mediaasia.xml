@@ -45,34 +45,23 @@ player=default</link>
 
 <item>
 <title>Kalaignar TV</title>
-<link>rtmp://50.7.175.253:1939/base2/kalai0.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/kalaignar-tv-live/</link>
+<link>rtmp://50.7.175.253:1939/base2 app=base2 playpath=kalai0.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/kalaignar-tv-live/ swfVfy=true live=true timeout=15
+player=default</link>
 <thumbnail>https://lh3.googleusercontent.com/-7W1SEoplfl8/UTUQdpWv7_I/AAAAAAAAABY/kDi-fTbKB54/s425/kalaignartv.png</thumbnail>
 </item>
 
 <item>
 <title>Kalaignar Murasu</title>
-<link>rtmp://50.7.175.253:1939/base2/kalai5.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/murasu-tv-live/</link>
+<link>rtmp://50.7.175.253:1939/base2 playpath=kalai5.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://tamiltv.tv/murasu-tv-live/
+player=default</link>
 <thumbnail>https://lh3.googleusercontent.com/-RpjOC9t03bk/UTUtpcqMuxI/AAAAAAAAAFc/w_C5VYPU7h8/s425/murasutv.png</thumbnail>
 </item>
 
 <item>
-<title>Minnal Classic Music</title>
-<link>rtmpe://68.235.37.141/minnalwebs/ playpath=mclassic1 swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB pageURL=http://www.watchsuntv.com/play swfVfy=true live=true timeout=12
-player=default</link>
-<thumbnail>https://lh3.googleusercontent.com/-gZsrLWDxhIU/UulS9nWLJKI/AAAAAAAAARM/nvk1c3sa7Bc/w425-h134-no/minnalclassic.png</thumbnail>
-</item>
-
-<item>
 <title>Kalaignar Sirippoli</title>
-<link>rtmp://50.7.175.253:1939/base2/kalai3.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/sirippoli-tv/</link>
-<thumbnail>https://lh5.googleusercontent.com/-VuVKXD0zNP0/UTUtonZBFsI/AAAAAAAAAFM/3BsY9w1m080/s425/sirippoli.png</thumbnail>
-</item>
-
-<item>
-<title>Minnal Comedy</title>
-<link>rtmpe://68.235.37.141/minnalwebs/mcomedy1 app=minnalwebs/ playpath=mcomedy1 token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/ swfVfy=true live=true timeout=15
+<link>rtmp://50.7.175.253:1939/base2 playpath=kalai3.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/sirippoli-tv/
 player=default</link>
-<thumbnail>https://lh4.googleusercontent.com/-Tz_PM0TlGqY/UsxrtRJQfSI/AAAAAAAAANE/Wv0p-TELJQc/w425-h134-no/minnalcomedy.png</thumbnail>
+<thumbnail>https://lh5.googleusercontent.com/-VuVKXD0zNP0/UTUtonZBFsI/AAAAAAAAAFM/3BsY9w1m080/s425/sirippoli.png</thumbnail>
 </item>
 
 <item>
@@ -96,13 +85,15 @@ player=default</link>
 
 <item>
 <title>Polimer TV</title>
-<link>rtmp://50.7.175.252:1940/base2/tamil23.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/polimer-tv-live/</link>
+<link>rtmp://50.7.175.252:1940/base2 playpath=tamil23.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/polimer-tv-live/
+player=default</link>
 <thumbnail>https://lh3.googleusercontent.com/-lumSDo1MeSE/UTUtjzLeD1I/AAAAAAAAAEE/D7l2I8Rz_pQ/s425/polimertv.png</thumbnail>
 </item>
 
 <item>
 <title>Makkal TV</title>
-<link>rtmp://50.7.175.252:1940/base2/tamil20.stream swfurl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/makkal-live/</link>
+<link>rtmp://50.7.175.252:1940/base2 playpath=tamil20.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/makkal-live/
+player=default</link>
 <thumbnail>https://lh3.googleusercontent.com/-zeg45HyMASk/UTUtgn5jAII/AAAAAAAAADU/SwdIlByLx4c/s425/makkaltv.png</thumbnail>
 </item>
 
@@ -114,20 +105,6 @@ player=default</link>
 </item>
 
 <item>
-<title>Minnal Food</title>
-<link>rtmpe://68.235.37.141/minnalwebs/ playpath=mfood swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB pageURL=http://www.watchsuntv.com/play swfVfy=true live=true timeout=12
-player=default</link>
-<thumbnail>https://lh6.googleusercontent.com/-7tn-gL8f_6k/UulMk1w7k_I/AAAAAAAAAPk/xDK68vlAND0/w425-h134-no/minnalfood.png</thumbnail>
-</item>
-
-<item>
-<title>Minnal Travel</title>
-<link>rtmpe://68.235.37.141/minnalwebs/ playpath=mtravel swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB pageURL=http://www.watchsuntv.com/play swfVfy=true live=true timeout=12
-player=default</link>
-<thumbnail>https://lh4.googleusercontent.com/-Adkw6sHouFM/UulMm6qVAwI/AAAAAAAAAQI/3nZbVtp0s9M/w425-h134-no/minnaltravel.png</thumbnail>
-</item>
-
-<item>
 <title>Wellness TV</title>
 <link>rtmp://stream.akamain.info:1935/live playpath=divinenoni swfUrl=http://live.akamain.info/player.swf pageUrl=http://live.akamain.info/divinenoni/
 player=default</link>
@@ -136,32 +113,29 @@ player=default</link>
 
 <item>
 <title>Kalaignar Chithiram (Kids TV)</title>
-<link>rtmp://50.7.175.253:1939/base2/kalai4.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/chithiram-live/</link>
+<link>rtmp://50.7.175.253:1939/base2 playpath=kalai4.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/chithiram-live/
+player=default</link>
 <thumbnail>https://lh3.googleusercontent.com/-NdmyoCpkgZI/UTUtekGbbVI/AAAAAAAAAC0/jWxHDStkZOQ/s425/chithiram.png</thumbnail>
 </item>
 
 <item>
-<title>Minnal Kids</title>
-<link>rtmpe://68.235.37.141/minnalwebs/mkids token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/=true timeout=150
-player=default</link>
-<thumbnail>https://lh6.googleusercontent.com/-V4Lwcd5ChaA/UulMl4a_1rI/AAAAAAAAAQM/Ceg9XacMY5c/w425-h134-no/minnalkids.png</thumbnail>
-</item>
-
-<item>
 <title>Captain TV</title>
-<link>rtmp://50.7.175.252:1940/base2/tamil0.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/captain-tv-live/</link>
+<link>rtmp://50.7.175.252:1940/base2 playpath=tamil0.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/captain-tv-live/
+player=default</link>
 <thumbnail>https://lh4.googleusercontent.com/-uQXmjo5L_vI/UTUteSGxEqI/AAAAAAAAACU/pQ4Oa_KHDMc/s425/captaintv.png</thumbnail>
 </item>
 
 <item>
 <title>MK TV</title>
-<link>rtmp://50.7.175.252:1940/base2/tamil26.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/gtv-spv-live/</link>
+<link>rtmp://50.7.175.252:1940/base2 playpath=tamil26.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/mktv-live/
+player=default</link>
 <thumbnail>https://lh6.googleusercontent.com/-ggry1Zk47_s/UulOzUstDGI/AAAAAAAAAQs/bYWtWIp-awI/w425-h134-no/mktv.png</thumbnail>
 </item>
 
 <item>
 <title>DD Podhigai</title>
-<link>rtmp://50.7.175.252:1940/base2/dd10.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/dd-podhigai-live/</link>
+<link>rtmp://50.7.175.252:1940/base2 playpath=dd10.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/dd-podhigai-live/
+player=default</link>
 <thumbnail>https://lh6.googleusercontent.com/-IY8T-zkfjVg/UTUtenGCbJI/AAAAAAAAAC8/yTw98QZj9do/s425/ddpodhigai.png</thumbnail>
 </item>
 
@@ -173,13 +147,15 @@ player=default</link>
 
 <item>
 <title>Vasanth TV</title>
-<link>rtmp://50.7.175.252:1940/base2/tamil7.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/vasanth-tv-live/</link>
+<link>rtmp://50.7.175.252:1940/base2 playpath=tamil7.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/vasanth-tv-live/
+player=default</link>
 <thumbnail>https://lh4.googleusercontent.com/-V3K3Q23N0wI/UTUtraIhgEI/AAAAAAAAAGQ/lJKQ5v0qvu0/s425/vasanthtv.png</thumbnail>
 </item>
 
 <item>
 <title>Vendhar TV</title>
-<link>rtmp://50.7.175.252:1940/base2/tamil5.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/vendhar-tv/</link>
+<link>rtmp://50.7.175.252:1940/base2 playpath=tamil5.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/vendhar-tv/
+player=default</link>
 <thumbnail>https://lh3.googleusercontent.com/-BrHGs19vq0A/UulXgjz1KlI/AAAAAAAAAR0/KA61ScwZ1yI/w425-h134-no/vendhartv.png</thumbnail>
 </item>
 
@@ -191,46 +167,29 @@ player=default</link>
 
 <item>
 <title>Isai Aruvi</title>
-<link>rtmp://50.7.175.253:1939/base2/kalai2.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/isai-aruvi-live/</link>
+<link>rtmp://50.7.175.253:1939/base2 playpath=kalai2.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/isai-aruvi-live/
+player=default</link>
 <thumbnail>https://lh5.googleusercontent.com/-zTB0DgIbfCI/UTUtfGEflnI/AAAAAAAAACs/KdKi3X62veM/s425/isaiaruvi.png</thumbnail>
 </item>
 
 <item>
-<title>Minnal Hits HD</title>
-<link>rtmpe://68.235.37.141/minnalwebs/mhitshd1 token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/=true timeout=150
-player=default</link>
-<thumbnail>https://lh5.googleusercontent.com/-fRFEaTgwHcU/UulMk0ziVFI/AAAAAAAAAPo/Xu6QPobmvrU/w425-h134-no/minnalhitshd.png</thumbnail>
-</item>
-
-<item>
-<title>Minnal Music</title>
-<link>rtmpe://68.235.37.141/minnalwebs/mmusic token=frACE6aMeGuB swfUrl=http://www.watchsuntv.com/play/flash/secure.swf pageUrl=http://www.watchsuntv.com/play/=true timeout=150
-player=default</link>
-<thumbnail>https://lh5.googleusercontent.com/-VQg5TlFne-s/UulMm8AsuDI/AAAAAAAAAQQ/KEuHbKCvCEI/w425-h134-no/minnalmusic.png</thumbnail>
-</item>
-
-<item>
 <title>7S Music</title>
-<link>rtmp://50.7.175.253:1939/base2/hmtv5.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/7s-music-live/</link>
+<link>rtmp://50.7.175.253:1939/base2 playpath=hmtv5.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/7s-music-live/
+player=default</link>
 <thumbnail>https://lh3.googleusercontent.com/-eC1bS12iWdk/UTUtddLUgQI/AAAAAAAAAB4/sTT-M_gtE_k/s425/7smusic.png</thumbnail>
 </item>
 
 <item>
-<title>Minnal Carnatic</title>
-<link>rtmpe://68.235.37.141/minnalwebs/ playpath=mcarnatic swfUrl=http://www.watchsuntv.com/play/flash/secure.swf token=frACE6aMeGuB pageURL=http://www.watchsuntv.com/play swfVfy=true live=true timeout=12
-player=default</link>
-<thumbnail>https://lh4.googleusercontent.com/-_BDxLU3VsKE/UulS9upKyVI/AAAAAAAAARU/c7GinLc1CyA/w425-h134-no/minnalcarnatic.png</thumbnail>
-</item>
-
-<item>
 <title>Puthiya Thalaimurai News</title>
-<link>rtmp://50.7.175.252:1940/base2/tamil22.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/puthiya-thalaimurai-live/</link>
+<link>rtmp://50.7.175.252:1940/base2 playpath=tamil22.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/puthiya-thalaimurai-live/
+player=default</link>
 <thumbnail>https://lh6.googleusercontent.com/-McpiYO9go5w/UTUtnJRwU1I/AAAAAAAAAE4/nMktThgVLr0/s425/puthiyathalaimurai.png</thumbnail>
 </item>
 
 <item>
 <title>Kalaignar Seithigal</title>
-<link>rtmp://50.7.175.253:1939/base2/kalai1.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/seithigal-live/</link>
+<link>rtmp://cdn.m.yupptv.tv/liveorigin/ playpath=kalaignarlive1 swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx
+player=default</link>
 <thumbnail>https://lh4.googleusercontent.com/-jji8225eHf4/UTUtokH408I/AAAAAAAAAFE/NLF_519WPak/s425/seithigal.png</thumbnail>
 </item>
 
