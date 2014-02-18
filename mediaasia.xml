@@ -160,6 +160,12 @@ player=default</link>
 </item>
 
 <item>
+<title>Moon TV</title>
+<link>rtmp://stream.mslive.co.in/live//gmoon1 swfUrl=http://mslive.co.in/jw/player.swf pageUrl=http://www.moontvlive.com/</link>
+<thumbnail>https://lh5.googleusercontent.com/-nR9D0EPMZhA/UwPuPm5Rw3I/AAAAAAAAASk/oQBVqgxodHQ/w425-h134-no/moontv.png</thumbnail>
+</item>
+
+<item>
 <title>Arra TV</title>
 <link>rtmp://flash6.chennaistream.net/130515/livestream swfUrl=http://www.abcmedias.com/flowplayer/flowplayer-3.2.16.swf pageUrl=http://arratv.in/</link>
 <thumbnail>https://lh6.googleusercontent.com/-PXTKCsLnK_4/Usxw6Zq-7FI/AAAAAAAAAOc/yace3yVouwc/w425-h134-no/arratv.png</thumbnail>
@@ -180,6 +186,12 @@ player=default</link>
 </item>
 
 <item>
+<title>Bharradhi TV</title>
+<link>rtmp://5.39.73.189/own_tamil/barathy swfUrl=http://eettv.com/player.swf pageUrl=http://www.bharradhitv.com/media-player.html</link>
+<thumbnail>https://lh4.googleusercontent.com/-wtLf2FrZum0/UwPqKZzziNI/AAAAAAAAASQ/N9o86Z5viGI/w425-h134-no/bharradhitv.png</thumbnail>
+</item>
+
+<item>
 <title>Puthiya Thalaimurai News</title>
 <link>rtmp://50.7.175.252:1940/base2 playpath=tamil22.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/puthiya-thalaimurai-live/
 player=default</link>
@@ -195,7 +207,8 @@ player=default</link>
 
 <item>
 <title>Thanthi TV (News)</title>
-<link>rtmp://50.7.175.252:1940/base2/tamil29.stream swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://tamiltv.tv/thanthi-tv/</link>
+<link>rtmp://50.7.175.252:1940/base2 playpath=tamil29.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/thanthi-tv/=true timeout=30
+player=default</link>
 <thumbnail>https://lh3.googleusercontent.com/-iNd_ySxwMHs/UTUtq4w20vI/AAAAAAAAAGE/EGT6ycgbmBU/s425/thanthitv.png<thumbnail>
 </item>
 
@@ -207,31 +220,44 @@ player=default</link>
 
 <item>
 <title>Lotus News</title>
-<link>rtmp://live.wmncdn.net/lotus//25526e8cfa035fc30910e40b3f2e4348.sdp swfUrl=http://player-emea-uk.webmobilive.com/player/liveplayer.swf live=true pageUrl=http://lotusnews.tv/</link>
+<link>rtmp://live.wmncdn.net/lotus/ playpath=25526e8cfa035fc30910e40b3f2e4348.sdp swfUrl=http://player.longtailvideo.com/player5.9.swf pageUrl=http://desichannels.webnode.com/hindi-channels/
+player=default</link>
 <thumbnail>https://lh3.googleusercontent.com/-qRua8QR3OeA/UTUtgclcDaI/AAAAAAAAAD8/Ook2oNW3nc0/s425/lotusnews.png<thumbnail>
 </item>
 
 <item>
 <title>Captain News</title>
-<link>rtmp://50.7.175.252:1940/base2/tamil1.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/captain-tv-news/</link>
+<link>rtmp://50.7.175.252:1940/base2 playpath=tamil1.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/captain-tv-news/
+player=default</link>
 <thumbnail>https://lh5.googleusercontent.com/-oLKtl3VBFTg/UTUtd9RIv8I/AAAAAAAAACg/odnycZPgdVQ/s425/captainnews.png</thumbnail>
 </item>
 
 <item>
 <title>Polimer News</title>
-<link>rtmp://50.7.175.252:1940/base2/tamil21.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/gtv-spv-live/</link>
+<link>rtmp://50.7.175.252:1940/base2 playpath=tamil21.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/gtv-spv-live/
+player=default</link>
+<thumbnail>https://lh5.googleusercontent.com/-lsFLnT-0O6E/UUXcCinVl9I/AAAAAAAAAI4/lSvnmZy6EM0/s425/polimernews.png</thumbnail>
+</item>
+
+<item>
+<title>Raj News 24x7</title>
+<link>rtmp://cdn.m.yupptv.tv/liveorigin/ playpath=rajnewstamil1 swfUrl=http://www.yupptv.com/yupptvhdflvplayer/hdplayer.swf live=true pageUrl=http://www.yupptv.com/account/FlashPlayerFrame.aspx
+player=default</link>
 <thumbnail>https://lh5.googleusercontent.com/-lsFLnT-0O6E/UUXcCinVl9I/AAAAAAAAAI4/lSvnmZy6EM0/s425/polimernews.png</thumbnail>
 </item>
 
 <item>
 <title>Sathiyam TV (News)</title>
-<link>rtmp://50.7.175.252:1940/base2/asia12.stream swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/sathiyam-tv-live/</link>
+<link>rtmp://50.7.175.252:1940/base2 playpath=asia12.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/sathiyam-tv-live/
+player=default</link>
 <thumbnail>https://lh5.googleusercontent.com/-2pT6pfANZPk/UTUtn1iEj2I/AAAAAAAAAEs/RcvaV2_Fjag/s425/sathiyamtv.png</thumbnail>
 </item>
 
 <item>
 <title>Vasantham TV (Sri Lanka)</title>
-<link>rtmp://mediacp2.comcities.com/itn-vasantham/itn-vasantham swfUrl=http://cdn.itnlanka.com/vasanthamtv.swf pageUrl=http://cdn.itnlanka.com/vasanthamtv.swf</link>
+<link>rtmp://mediacp2.comcities.com:1935/itn-vasantham playpath=itn-vasantham swfUrl=http://cdn.itnlanka.com/vasanthamtv.swf live=1 pageUrl=http://livetvchannelsfree.com/vasanthamtv.html
+player=default
+rating=-1.00</link>
 <thumbnail>https://lh5.googleusercontent.com/-Gok8dgdyhSA/UTXdznEp0_I/AAAAAAAAAIc/9EP1PH5bqFY/s425/vasanthamtvsl.png</thumbnail>
 </item>
 
