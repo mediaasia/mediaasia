@@ -16,13 +16,6 @@
 </item>
 
 <item>
-<title>Super TV</title>
-<link>rtmp://bomtv.5centscdn.com:1935/supertvstream/5852f36461510ecb1d019562172abc0d.sdp
-player=default</link>
-<thumbnail>https://lh4.googleusercontent.com/-5xdPGUoCghg/UVWMoSPrSBI/AAAAAAAAAJI/hta_WYlJR-0/w425-h134-no/supertv.png</thumbnail>
-</item>
-
-<item>
 <title>Dheeran TV</title>
 <link>rtmp://50.7.175.252:1940/base2 playpath=asia14.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/dheeran-tv-live/
 player=default</link>
