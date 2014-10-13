@@ -58,7 +58,7 @@ player=default</link>
 
 <item>
 <title>Kalaignar Murasu</title>
-<link>rtmp://50.7.175.253:1939/base2 playpath=kalai5.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://tamiltv.tv/murasu-tv-live/
+<link>octoshape://octo.freedocast.com/gtcdn.freedocast.murasu.auto swfUrl=http://d2iwzbhgddzdwl.cloudfront.net/resources/player/jwflvplayer/6/jwplayer-octoshape-mediaprovider.swf pageUrl=http://tamiltv.tv/murasu-tv-live/
 player=default</link>
 <thumbnail>https://lh3.googleusercontent.com/-RpjOC9t03bk/UTUtpcqMuxI/AAAAAAAAAFc/w_C5VYPU7h8/s425/murasutv.png</thumbnail>
 </item>
