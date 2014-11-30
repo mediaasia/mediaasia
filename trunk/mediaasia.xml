@@ -9,17 +9,11 @@
 <items>
 
 
-
 <item>
-<title>Deepam TV</title>
-<link>rtmp://85.25.43.54:1935/live2/2354225326331 swfUrl=http://p.jwpcdn.com/6/9/jwplayer.flash.swf pageUrl=http://livetvchannelsfree.com/deepamtv.html</link>
-<thumbnail>https://lh5.googleusercontent.com/-neVu0-Un6eo/UsxrsjQ0k7I/AAAAAAAAAMs/2sAvdp6w-cQ/w425-h134-no/eettv.png</thumbnail>
-</item>
-
-<item>
-<title>GTV</title>
-<link>rtmp://85.25.43.54:1935/live2/3214315236247 swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf pageUrl=http://livetvchannelsfree.com/gtv.html</link>
-<thumbnail>https://lh5.googleusercontent.com/-neVu0-Un6eo/UsxrsjQ0k7I/AAAAAAAAAMs/2sAvdp6w-cQ/w425-h134-no/eettv.png</thumbnail>
+<title>TTN Tamil TV</title>
+<link>http://37.59.17.222:1935/tamilmedia/ttn_newstream.stream_360p/playlist.m3u8 swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf pageUrl=http://tamiltv.tv/murasu-tv-live/
+player=default</link>
+<thumbnail>https://lh3.googleusercontent.com/-RpjOC9t03bk/UTUtpcqMuxI/AAAAAAAAAFc/w_C5VYPU7h8/s425/murasutv.png</thumbnail>
 </item>
 
 <item>
