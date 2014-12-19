@@ -11,7 +11,8 @@
 
 <item>
 <title>Deepam TV</title>
-<link>rtmp://qcloudmedia.com/live/ukdeepam swfUrl=http://wixapps.hdwplayer.com/hdwplayer/player.swf pageUrl=http://wixapps.hdwplayer.com/hdwplayer/widget.html 
+<link>rtmp://qcloudmedia.com/live/ukdeepam swfUrl=http://wixapps.hdwplayer.com/hdwplayer/player.swf pageUrl=http://wixapps.hdwplayer.com/ 
+player=default</link>
 <thumbnail>https://lh5.googleusercontent.com/gd_MUYT-L4oLKNPqMTydhayhiUAVPrAgkdBwwpPKeBQ=w657-h207-p-no</thumbnail>
 </item>
 
