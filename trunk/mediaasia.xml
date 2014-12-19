@@ -18,9 +18,16 @@ player=default</link>
 
 <item>
 <title>EET TV Canada</title>
-<link>rtmp://37.59.17.222/secure/live swfUrl=http://eettv.com/player.swf pageUrl=http://tamiltv.tv/jaya-movies-live/</link>
+<link>rtmp://qcloudmedia.com/live/ukdeepam swfUrl=http://wixapps.hdwplayer.com/hdwplayer/player.swf pageUrl=http://wixapps.hdwplayer.com/</link>
 <thumbnail>https://lh5.googleusercontent.com/-neVu0-Un6eo/UsxrsjQ0k7I/AAAAAAAAAMs/2sAvdp6w-cQ/w425-h134-no/eettv.png</thumbnail>
 </item>
+
+<item>
+<title>EET TV Canada</title>
+<link>rtmp://qcloudmedia.com/live/ukdeepam swfUrl=http://eettv.com/player.swf pageUrl=http://tamiltv.tv/jaya-movies-live/</link>
+<thumbnail>https://lh5.googleusercontent.com/-neVu0-Un6eo/UsxrsjQ0k7I/AAAAAAAAAMs/2sAvdp6w-cQ/w425-h134-no/eettv.png</thumbnail>
+</item>
+
 
 <item>
 <title>Dheeran TV</title>
