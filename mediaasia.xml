@@ -44,7 +44,7 @@ player=default</link>
 <title>Super TV</title>
 <link>rtmp://supertv.airdesigntechnology.com/supertv/supertv.stream swfUrl=http://www.livewebcast.in/flowplayer/flowplayer.commercial-3.2.16.swf pageUrl=http://www.airdesigntechnology.com/supertv/live/
 player=default</link>
-<thumbnail>https://lh3.googleusercontent.com/-GT_d9txQz6I/UsxrtReLtTI/AAAAAAAAAM0/kC6b-RB9wfI/w425-h134-no/jmovie.png</thumbnail>
+<thumbnail>https://lh4.googleusercontent.com/-5xdPGUoCghg/UVWMoSPrSBI/AAAAAAAAAJI/hta_WYlJR-0/w425-h134-no/supertv.png</thumbnail>
 </item>
 
 <item>
@@ -61,20 +61,18 @@ player=default</link>
 </item>
 
 <item>
-<title>Jayam TV</title>
-<link>rtmp://jayamtv.livewebcast.in/jayamtv/jayamtv.stream swfUrl=http://www.livewebcast.in/flowplayer/flowplayer.commercial-3.2.16.swf pageUrl=http://www.livewebcast.in/jayamtv/live/
-player=default</link>
-<thumbnail>https://lh3.googleusercontent.com/UKCKRG_D6byU_YGrl4c1rfa2XTHTOW_5RkScUI6J2gc=w657-h207-p-no</thumbnail>
-</item>
-
-<item>
 <title>Jil Jil TV</title>
 <link>rtmp://emedias.com/jiljiltv/live1 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://jiljiltv.com/
 player=default</link>
 <thumbnail>https://lh6.googleusercontent.com/hofcjqEjEewgAS56RQCOtAjby3zPIIUQL6d7HX7Hm9E=w678-h213-p-no</thumbnail>
 </item>
 
-
+<item>
+<title>Vasantham TV (Sri Lanka)</title>
+<link>rtmp://mediacp2.comcities.com/itn-vasantham/itn-vasantham swfUrl=http://cdn.itnlanka.com/vasanthamtv.swf pageUrl=http://vasantham.lk/
+player=default</link>
+<thumbnail>https://lh5.googleusercontent.com/-Gok8dgdyhSA/UTXdznEp0_I/AAAAAAAAAIc/9EP1PH5bqFY/s425/vasanthamtvsl.png</thumbnail>
+</item>
 
 <item>
 <title>Wellness TV</title>
@@ -91,6 +89,12 @@ player=default</link>
 </item>
 
 <item>
+<title>Jaya Plus (News)</title>
+<link>rtmp://78.46.17.7/live//myStream.sdp swfUrl=http://www.ncast.com/player.swf pageUrl=http://jayaplus.jayanewslive.com/default.aspx</link>
+<thumbnail>https://lh4.googleusercontent.com/-UyfArP-EGIo/UTUtfkOyF6I/AAAAAAAAADM/kP4AxxFzo90/w425-h134-no/jayaplus.png<thumbnail>
+</item>
+
+<item>
 <title>Lotus News</title>
 <link>rtmp://live.wmncdn.net/lotus//25526e8cfa035fc30910e40b3f2e4348.sdp swfUrl=http://player-emea-uk.webmobilive.com/player/liveplayer.swf pageUrl=http://lotusnews.tv/
 player=default</link>
@@ -98,19 +102,20 @@ player=default</link>
 </item>
 
 <item>
-<title>Thanthi TV (News)</title>
-<link>http://d30zz3d0a9ty3e.cloudfront.net/httporg/smil:thanthitv.smil/playlist.m3u8 swfUrl=http://jwpsrv.com/library/t4eG3GNpEeSrTg6sC0aurw.js pageUrl=http://www.purplestream.com/thanthitv/liveplayer.html/
+<title>Sathiyam TV (News)</title>
+<link>rtmp://semc.pubzfs.live.fmp.firesky.tv/20075E/default/sathiyamnews swfUrl=http://sathiyam.tv/tamil/sathiyamlive.swf pageUrl=http://sathiyam.tv/tamil/
 player=default</link>
-<thumbnail>https://lh3.googleusercontent.com/-iNd_ySxwMHs/UTUtq4w20vI/AAAAAAAAAGE/EGT6ycgbmBU/s425/thanthitv.png<thumbnail>
+<thumbnail>https://lh5.googleusercontent.com/-2pT6pfANZPk/UTUtn1iEj2I/AAAAAAAAAEs/RcvaV2_Fjag/s425/sathiyamtv.png</thumbnail>
 </item>
 
-
 <item>
-<title>Polimer TV</title>
-<link>rtmp://50.7.175.252:1940/base2 playpath=tamil23.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/polimer-tv-live/
+<title>News 7 Tamil</title>
+<link>http://edge.purplestream.com/live/ns7/amlst:news7tamil/playlist.m3u8 swfUrl=www.purplestream.com/news7/jwplayer/jwplayer.js pageUrl=http://www.purplestream.com/news7/player.html/
 player=default</link>
 <thumbnail>https://lh3.googleusercontent.com/-lumSDo1MeSE/UTUtjzLeD1I/AAAAAAAAAEE/D7l2I8Rz_pQ/s425/polimertv.png</thumbnail>
 </item>
+
+
 
 <item>
 <title>Makkal TV</title>
@@ -211,11 +216,7 @@ player=default</link>
 
 
 
-<item>
-<title>Jaya Plus (News)</title>
-<link>rtmp://78.46.17.7/live//myStream.sdp swfUrl=http://www.ncast.com/player.swf pageUrl=http://jayaplus.jayanewslive.com/default.aspx</link>
-<thumbnail>https://lh4.googleusercontent.com/-UyfArP-EGIo/UTUtfkOyF6I/AAAAAAAAADM/kP4AxxFzo90/w425-h134-no/jayaplus.png<thumbnail>
-</item>
+
 
 
 
@@ -240,20 +241,9 @@ player=default</link>
 <thumbnail>https://lh5.googleusercontent.com/-lsFLnT-0O6E/UUXcCinVl9I/AAAAAAAAAI4/lSvnmZy6EM0/s425/polimernews.png</thumbnail>
 </item>
 
-<item>
-<title>Sathiyam TV (News)</title>
-<link>rtmp://50.7.175.252:1940/base2 playpath=asia12.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/sathiyam-tv-live/
-player=default</link>
-<thumbnail>https://lh5.googleusercontent.com/-2pT6pfANZPk/UTUtn1iEj2I/AAAAAAAAAEs/RcvaV2_Fjag/s425/sathiyamtv.png</thumbnail>
-</item>
 
-<item>
-<title>Vasantham TV (Sri Lanka)</title>
-<link>rtmp://mediacp2.comcities.com:1935/itn-vasantham playpath=itn-vasantham swfUrl=http://cdn.itnlanka.com/vasanthamtv.swf live=1 pageUrl=http://livetvchannelsfree.com/vasanthamtv.html
-player=default
-rating=-1.00</link>
-<thumbnail>https://lh5.googleusercontent.com/-Gok8dgdyhSA/UTXdznEp0_I/AAAAAAAAAIc/9EP1PH5bqFY/s425/vasanthamtvsl.png</thumbnail>
-</item>
+
+
 
 <item>
 <title>Sri Sankara TV</title>
