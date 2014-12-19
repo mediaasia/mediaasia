@@ -11,84 +11,99 @@
 
 <item>
 <title>Deepam TV</title>
-<link>rtmp://qcloudmedia.com/live/ukdeepam swfUrl=http://wixapps.hdwplayer.com/hdwplayer/player.swf pageUrl=http://wixapps.hdwplayer.com/ 
-player=default</link>
+<link>rtmp://qcloudmedia.com/live/ukdeepam swfUrl=http://wixapps.hdwplayer.com/hdwplayer/player.swf pageUrl=http://wixapps.hdwplayer.com/</link>
 <thumbnail>https://lh5.googleusercontent.com/gd_MUYT-L4oLKNPqMTydhayhiUAVPrAgkdBwwpPKeBQ=w657-h207-p-no</thumbnail>
 </item>
 
 <item>
-<title>EET TV Canada</title>
-<link>rtmp://qcloudmedia.com/live/ukdeepam swfUrl=http://wixapps.hdwplayer.com/hdwplayer/player.swf pageUrl=http://wixapps.hdwplayer.com/</link>
-<thumbnail>https://lh5.googleusercontent.com/-neVu0-Un6eo/UsxrsjQ0k7I/AAAAAAAAAMs/2sAvdp6w-cQ/w425-h134-no/eettv.png</thumbnail>
+<title>Athavan TV</title>
+<link>rtmp://livestream.5centscdn.com/athavantvvxtv//be597217ee55a93f3ca91ed5174a5a34.sdp swfUrl=http://emea.5centscdn.com/jw/player.swf pageUrl=http://athavantv.com/athavantv/</link>
+<thumbnail>https://lh3.googleusercontent.com/pMWj0xSGOnW9cjj3_qB5E4FIrGe9U8970q4_pbowpXs=w678-h213-p-no</thumbnail>
 </item>
 
 <item>
 <title>EET TV Canada</title>
-<link>rtmp://qcloudmedia.com/live/ukdeepam swfUrl=http://eettv.com/player.swf pageUrl=http://tamiltv.tv/jaya-movies-live/</link>
+<link>rtmp://37.59.17.222/live_ca/eettv swfUrl=http://eettv.com/player.swf pageUrl=http://www.eettv.com/</link>
 <thumbnail>https://lh5.googleusercontent.com/-neVu0-Un6eo/UsxrsjQ0k7I/AAAAAAAAAMs/2sAvdp6w-cQ/w425-h134-no/eettv.png</thumbnail>
 </item>
 
-
 <item>
-<title>Dheeran TV</title>
-<link>rtmp://50.7.175.252:1940/base2 playpath=asia14.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/dheeran-tv-live/
+<title>Shalini TV</title>
+<link>rtmp://live.wmncdn.net/shalini//7bb6687be4c09693ced378f17133c850.sdp swfUrl=http://player-apac-sing.webmobilive.com/player/liveplayer.swf pageUrl=http://shalinitv.com/
 player=default</link>
-<thumbnail>https://lh6.googleusercontent.com/-y1H3zr30650/UXcDq-1PGYI/AAAAAAAAALE/4RbymP8TSxQ/s425/dheerantv.png</thumbnail>
+<thumbnail>https://lh4.googleusercontent.com/-EviOCTcK7dE/Usxrv2UuF3I/AAAAAAAAANs/y8O_aTeJkAo/w425-h134-no/shalinitv.png</thumbnail>
 </item>
 
 <item>
-<title>Puthu Yugam TV</title>
-<link>rtmp://50.7.175.252:1940/base2 playpath=tamil9.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/puthuyugam-tv-live/ live=1 timeout=10
-player=default</link>
-<thumbnail>https://lh4.googleusercontent.com/-sdEuPa352T4/Usxrv7tiKNI/AAAAAAAAANw/lUu-NeGhkfM/w425-h134-no/puthuyugamtv.png</thumbnail>
+<title>Peppers TV</title>
+<link>rtmp://live.wmncdn.net/pepperstv//51f5cdae2cc7bd5e4e8e76b7357ae0f8.sdp swfUrl=http://player-apac-sing.webmobilive.com/player/liveplayer.swf pageUrl=http://pepperstv.com/live.aspx/</link>
+<thumbnail>https://lh5.googleusercontent.com/-rZ68QKkG9cI/UsxrvLMCq4I/AAAAAAAAANg/C7xmqmWv4d0/w425-h134-no/pepperstv.png</thumbnail>
 </item>
 
 <item>
-<title>Jaya Movies</title>
-<link>rtmp://50.7.175.252:1940/base2 playpath=tamil28.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/jaya-movies-live/
+<title>Super TV</title>
+<link>rtmp://supertv.airdesigntechnology.com/supertv/supertv.stream swfUrl=http://www.livewebcast.in/flowplayer/flowplayer.commercial-3.2.16.swf pageUrl=http://www.airdesigntechnology.com/supertv/live/
 player=default</link>
 <thumbnail>https://lh3.googleusercontent.com/-GT_d9txQz6I/UsxrtReLtTI/AAAAAAAAAM0/kC6b-RB9wfI/w425-h134-no/jmovie.png</thumbnail>
 </item>
 
 <item>
-<title>Kalaignar TV</title>
-<link>rtmp://50.7.175.253:1939/base2 app=base2 playpath=kalai0.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/kalaignar-tv-live/ swfVfy=true live=true timeout=15
-player=default</link>
-<thumbnail>https://lh3.googleusercontent.com/-7W1SEoplfl8/UTUQdpWv7_I/AAAAAAAAABY/kDi-fTbKB54/s425/kalaignartv.png</thumbnail>
+<title>Tamilan TV</title>
+<link>rtmp://38.96.175.192:1943/live/tamilantelevision1 swfUrl=http://www.priwil.com/webplayer/player.swf pageUrl=http://www.tamilantelevision.com/cdn/index.html</link>
+<thumbnail>https://lh6.googleusercontent.com/-8XrENyGeQ2k/UTU2bmeWDqI/AAAAAAAAAH8/xGKbWKv7w44/s425/tamilantv.png</thumbnail>
 </item>
 
 <item>
-<title>Kalaignar Murasu</title>
-<link>http://103.3.229.147:8084/r_starvijay/index.m3u8 swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf pageUrl=http://tamiltv.tv/murasu-tv-live/
+<title>Imayam TV</title>
+<link>rtmp://cp.akamain.info/imayamtv//imayamtv swfUrl=http://live.akamain.info/v1/_jwplayer-files/jwplayer.flash.swf pageUrl=http://live.akamain.info/v1/imayamtv/index.html/
 player=default</link>
-<thumbnail>https://lh3.googleusercontent.com/-RpjOC9t03bk/UTUtpcqMuxI/AAAAAAAAAFc/w_C5VYPU7h8/s425/murasutv.png</thumbnail>
+<thumbnail>https://lh6.googleusercontent.com/-CygC2c0GTjw/UsxvJlzJnmI/AAAAAAAAAOE/2z2BBYTM9lU/w425-h134-no/imayamtv.png</thumbnail>
 </item>
 
 <item>
-<title>Kalaignar Sirippoli</title>
-<link>rtmp://50.7.175.253:1939/base2 playpath=kalai3.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/sirippoli-tv/
+<title>Jayam TV</title>
+<link>rtmp://jayamtv.livewebcast.in/jayamtv/jayamtv.stream swfUrl=http://www.livewebcast.in/flowplayer/flowplayer.commercial-3.2.16.swf pageUrl=http://www.livewebcast.in/jayamtv/live/
 player=default</link>
-<thumbnail>https://lh5.googleusercontent.com/-VuVKXD0zNP0/UTUtonZBFsI/AAAAAAAAAFM/3BsY9w1m080/s425/sirippoli.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/UKCKRG_D6byU_YGrl4c1rfa2XTHTOW_5RkScUI6J2gc=w657-h207-p-no</thumbnail>
 </item>
 
 <item>
-<title>Shalini TV</title>
-<link>rtmp://live.wmncdn.net/shalini//7bb6687be4c09693ced378f17133c850.sdp swfurl=http://player-emea-uk.webmobilive.com/player/liveplayer.swf pageUrl=http://shalinitv.com/</link>
+<title>Jil Jil TV</title>
+<link>rtmp://emedias.com/jiljiltv/live1 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://jiljiltv.com/
+player=default</link>
+<thumbnail>https://lh6.googleusercontent.com/hofcjqEjEewgAS56RQCOtAjby3zPIIUQL6d7HX7Hm9E=w678-h213-p-no</thumbnail>
+</item>
+
+
+
+<item>
+<title>Wellness TV</title>
+<link>rtmp://cp.akamain.info/nonitv1//nonitv1 swfUrl=http://live.akamain.info/v1/_jwplayer-files/jwplayer.flash.swf pageUrl=http://live.akamain.info/v1/nonitv/index.html/
+player=default</link>
+<thumbnail>https://lh6.googleusercontent.com/-giIS0TMMuaQ/UulXggdcVCI/AAAAAAAAARw/VUJEFeywwko/w425-h134-no/wellnesstv.png</thumbnail>
+</item>
+
+<item>
+<title>Ohm TV</title>
+<link>rtmp://livestream.5centscdn.com/ohmtvvxtv//08b3851f6821f4dab6ce2bc4a429ddfe.sdp swfurl=http://emea.5centscdn.com/jw/player.swf pageUrl=http://athavannews.com/?page_id=139560/
+player=default</link>
 <thumbnail>https://lh4.googleusercontent.com/-EviOCTcK7dE/Usxrv2UuF3I/AAAAAAAAANs/y8O_aTeJkAo/w425-h134-no/shalinitv.png</thumbnail>
 </item>
 
 <item>
-<title>Krishna TV</title>
-<link>rtmp://live.wmncdn.net/krishnatv/ playpath=d3776565fce7a0ac5154ef508bc1a05e.sdp swfUrl=http://player-apac-sing.webmobilive.com/jw/player.swf pageUrl=http://livetvchannelsfree.com/krishnatvlive.html
+<title>Lotus News</title>
+<link>rtmp://live.wmncdn.net/lotus//25526e8cfa035fc30910e40b3f2e4348.sdp swfUrl=http://player-emea-uk.webmobilive.com/player/liveplayer.swf pageUrl=http://lotusnews.tv/
 player=default</link>
-<thumbnail>https://lh5.googleusercontent.com/-20dY_HRhfZc/UulMk53Ev0I/AAAAAAAAAP0/E10hfrFXNdU/w425-h134-no/krishnatv.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/-qRua8QR3OeA/UTUtgclcDaI/AAAAAAAAAD8/Ook2oNW3nc0/s425/lotusnews.png<thumbnail>
 </item>
 
 <item>
-<title>Peppers TV</title>
-<link>rtmp://live.wmncdn.net/peppers//peppers.stream swfUrl=http://player-emea-uk.webmobilive.com/player/liveplayer.swf pageUrl=http://pepperstv.com/</link>
-<thumbnail>https://lh5.googleusercontent.com/-rZ68QKkG9cI/UsxrvLMCq4I/AAAAAAAAANg/C7xmqmWv4d0/w425-h134-no/pepperstv.png</thumbnail>
+<title>Thanthi TV (News)</title>
+<link>http://d30zz3d0a9ty3e.cloudfront.net/httporg/smil:thanthitv.smil/playlist.m3u8 swfUrl=http://jwpsrv.com/library/t4eG3GNpEeSrTg6sC0aurw.js pageUrl=http://www.purplestream.com/thanthitv/liveplayer.html/
+player=default</link>
+<thumbnail>https://lh3.googleusercontent.com/-iNd_ySxwMHs/UTUtq4w20vI/AAAAAAAAAGE/EGT6ycgbmBU/s425/thanthitv.png<thumbnail>
 </item>
+
 
 <item>
 <title>Polimer TV</title>
@@ -109,13 +124,6 @@ player=default</link>
 <link>rtmp://38.96.148.172:1935/live/ playpath=robinson swfUrl=http://www.iwaystream.com/remote2/player/player-default.swf live=true timeout=15 pageUrl=http://www.iwaystream.com/remote2/robinson/
 player=default</link>
 <thumbnail>https://lh6.googleusercontent.com/-CygC2c0GTjw/UsxvJlzJnmI/AAAAAAAAAOE/2z2BBYTM9lU/w425-h134-no/imayamtv.png</thumbnail>
-</item>
-
-<item>
-<title>Wellness TV</title>
-<link>rtmp://stream.akamain.info:1935/live playpath=divinenoni swfUrl=http://live.akamain.info/player.swf pageUrl=http://live.akamain.info/divinenoni/
-player=default</link>
-<thumbnail>https://lh6.googleusercontent.com/-giIS0TMMuaQ/UulXggdcVCI/AAAAAAAAARw/VUJEFeywwko/w425-h134-no/wellnesstv.png</thumbnail>
 </item>
 
 <item>
@@ -146,11 +154,6 @@ player=default</link>
 <thumbnail>https://lh6.googleusercontent.com/-IY8T-zkfjVg/UTUtenGCbJI/AAAAAAAAAC8/yTw98QZj9do/s425/ddpodhigai.png</thumbnail>
 </item>
 
-<item>
-<title>Tamilan TV</title>
-<link>rtmp://38.96.175.192:1943/live/tamilantelevision swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf pageUrl=http://www.priwil.com/videoserver/tamilantelevision/</link>
-<thumbnail>https://lh6.googleusercontent.com/-8XrENyGeQ2k/UTU2bmeWDqI/AAAAAAAAAH8/xGKbWKv7w44/s425/tamilantv.png</thumbnail>
-</item>
 
 <item>
 <title>Vasanth TV</title>
@@ -206,12 +209,7 @@ player=default</link>
 <thumbnail>https://lh4.googleusercontent.com/-jji8225eHf4/UTUtokH408I/AAAAAAAAAFE/NLF_519WPak/s425/seithigal.png</thumbnail>
 </item>
 
-<item>
-<title>Thanthi TV (News)</title>
-<link>rtmp://50.7.175.252:1940/base2 playpath=tamil29.stream token=Vu4KaBzaxa swfUrl=http://tamiltv.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tamiltv.tv/thanthi-tv/=true timeout=30
-player=default</link>
-<thumbnail>https://lh3.googleusercontent.com/-iNd_ySxwMHs/UTUtq4w20vI/AAAAAAAAAGE/EGT6ycgbmBU/s425/thanthitv.png<thumbnail>
-</item>
+
 
 <item>
 <title>Jaya Plus (News)</title>
@@ -219,12 +217,7 @@ player=default</link>
 <thumbnail>https://lh4.googleusercontent.com/-UyfArP-EGIo/UTUtfkOyF6I/AAAAAAAAADM/kP4AxxFzo90/w425-h134-no/jayaplus.png<thumbnail>
 </item>
 
-<item>
-<title>Lotus News</title>
-<link>rtmp://live.wmncdn.net/lotus/ playpath=25526e8cfa035fc30910e40b3f2e4348.sdp swfUrl=http://player.longtailvideo.com/player5.9.swf pageUrl=http://desichannels.webnode.com/hindi-channels/
-player=default</link>
-<thumbnail>https://lh3.googleusercontent.com/-qRua8QR3OeA/UTUtgclcDaI/AAAAAAAAAD8/Ook2oNW3nc0/s425/lotusnews.png<thumbnail>
-</item>
+
 
 <item>
 <title>Captain News</title>
