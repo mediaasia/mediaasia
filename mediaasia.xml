@@ -15,7 +15,7 @@
 <thumbnail>https://lh5.googleusercontent.com/gd_MUYT-L4oLKNPqMTydhayhiUAVPrAgkdBwwpPKeBQ=w657-h207-p-no</thumbnail>
 </item>
 
-# 2413555
+<item>
 type=video
 name=TTN Tamil TV
 thumb=http://4.bp.blogspot.com/-jSrG5BxWPxQ/UurMsqoi6dI/AAAAAAAAAAY/BIamDEqVapI/s1600/CaptainTV.png
@@ -23,6 +23,7 @@ date=2015-01-01
 URL=http://37.59.17.222:1935/tamilmedia/ttn_newstream.stream_360p/playlist.m3u8
 player=default
 rating=-1.00
+</item>
 
 <item>
 <title>Athavan TV</title>
