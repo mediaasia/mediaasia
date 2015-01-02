@@ -33,15 +33,12 @@
 <thumbnail>https://lh5.googleusercontent.com/-neVu0-Un6eo/UsxrsjQ0k7I/AAAAAAAAAMs/2sAvdp6w-cQ/w425-h134-no/eettv.png</thumbnail>
 </item>
 
-# 2413554
-type=video
-name=Jaya TV [US]
-thumb=http://4.bp.blogspot.com/-EUTlslmPLzI/UzdRnT966JI/AAAAAAAAAJg/Yz7uq4otD8c/s1600/jayaTV.png
-date=2015-01-01
-URL=http://fm4.channellive.tv/jaya_play?ip=84.227.178.120/24&e=1374043900&h=b3b11e717f0bddb2136a5bc86784f269
-player=default
-rating=-1.00
-description=n/description
+
+<item>
+<title>Jaya TV USA</title>
+<link>http://fm4.channellive.tv/jaya_play?ip=84.227.178.120/24&e=1374043900&h=b3b11e717f0bddb2136a5bc86784f269</link>
+<thumbnail>http://dl.dropboxusercontent.com/s/eezym36y4dfeku9/ttn.png</thumbnail>
+</item>
 
 <item>
 <title>Shalini TV</title>
@@ -104,14 +101,17 @@ player=default</link>
 <thumbnail>https://lh4.googleusercontent.com/-EviOCTcK7dE/Usxrv2UuF3I/AAAAAAAAANs/y8O_aTeJkAo/w425-h134-no/shalinitv.png</thumbnail>
 </item>
 
-# 2413566
-type=video
-name=Puthiya Thalaimurai [News]
-thumb=http://3.bp.blogspot.com/-BevTtqc07wE/UurMxFuGdnI/AAAAAAAAACg/pPPo7exraKM/s1600/PuthiyaThalaiMuraiTV.png
-date=2015-01-01
-URL=http://newgenlive-lh.akamaihd.net/i/ptmng1_1@141316/master.m3u8
-player=default
-rating=-1.00
+<item>
+<title>Thanthi TV News</title>
+<link>http://newgenlive-lh.akamaihd.net/i/ptmng1_1@141316/master.m3u8</link>
+<thumbnail>http://dl.dropboxusercontent.com/s/eezym36y4dfeku9/ttn.png</thumbnail>
+</item>
+
+<item>
+<title>Puthiya Thalaimurai</title>
+<link>http://newgenlive-lh.akamaihd.net/i/ptmng1_1@141316/master.m3u8</link>
+<thumbnail>http://dl.dropboxusercontent.com/s/eezym36y4dfeku9/ttn.png</thumbnail>
+</item>
 
 <item>
 <title>Jaya Plus (News)</title>
