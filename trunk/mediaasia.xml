@@ -15,6 +15,13 @@
 <thumbnail>https://lh5.googleusercontent.com/gd_MUYT-L4oLKNPqMTydhayhiUAVPrAgkdBwwpPKeBQ=w657-h207-p-no</thumbnail>
 </item>
 
+
+<item>
+<title>TTN TV</title>
+<link>http://37.59.17.222:1935/tamilmedia/ttn_newstream.stream_360p/playlist.m3u8/  player=default</link>
+<thumbnail>https://lh5.googleusercontent.com/gd_MUYT-L4oLKNPqMTydhayhiUAVPrAgkdBwwpPKeBQ=w657-h207-p-no</thumbnail>
+</item>
+
 <item>
 type=video
 name=TTN Tamil TV
