@@ -16,9 +16,9 @@
 </item>
 
 <item>
-<title>TTN Tamil Oli</title>
+<title>TTN Tamil TV</title>
 <link>http://37.59.17.222:1935/tamilmedia/ttn_newstream.stream_360p/playlist.m3u8</link>
-<thumbnail>http://dl.dropboxusercontent.com/s/eezym36y4dfeku9/ttn.png</thumbnail>
+<thumbnail>https://lh6.googleusercontent.com/-DE3S0ZIMiYA/VKgwUi5NKzI/AAAAAAAAAVI/497Hly1iTrU/w425-h134-no/ttn.png</thumbnail>
 </item>
 
 <item>
@@ -36,19 +36,25 @@
 <item>
 <title>Jaya TV USA</title>
 <link>http://fm4.channellive.tv/jaya_play?ip=84.227.178.120/24&e=1374043900&h=b3b11e717f0bddb2136a5bc86784f269</link>
-<thumbnail>http://dl.dropboxusercontent.com/s/eezym36y4dfeku9/ttn.png</thumbnail>
+<thumbnail>https://lh6.googleusercontent.com/-FFcyw7Ah_R0/UTUtf_tHRbI/AAAAAAAAADE/KwypbDacKqw/w425-h134-no/jayatv.png</thumbnail>
 </item>
 
 <item>
 <title>Dheeran TV</title>
 <link>http://edge.purplestream.com/live/dhtv/dheetv_1/playlist.m3u8</link>
-<thumbnail>http://dl.dropboxusercontent.com/s/eezym36y4dfeku9/ttn.png</thumbnail>
+<thumbnail>https://lh4.googleusercontent.com/-y1H3zr30650/UXcDq-1PGYI/AAAAAAAAALE/4RbymP8TSxQ/w425-h134-no/dheerantv.png</thumbnail>
 </item>
 
 <item>
 <title>Peppers TV</title>
 <link>rtmp://live.wmncdn.net/pepperstv//51f5cdae2cc7bd5e4e8e76b7357ae0f8.sdp swfUrl=http://player-apac-sing.webmobilive.com/player/liveplayer.swf pageUrl=http://pepperstv.com/live.aspx/</link>
 <thumbnail>https://lh5.googleusercontent.com/-rZ68QKkG9cI/UsxrvLMCq4I/AAAAAAAAANg/C7xmqmWv4d0/w425-h134-no/pepperstv.png</thumbnail>
+</item>
+
+<item>
+<title>Puthu Yugam TV</title>
+<link>http://edge.purplestream.com/live/py/puthuyugam/playlist.m3u8</link>
+<thumbnail>https://lh6.googleusercontent.com/-cW6JIFFRXp8/VKg0OmmBBKI/AAAAAAAAAWg/g4ad7ysYyTg/w425-h134-no/puthuyugamtv.png</thumbnail>
 </item>
 
 <item>
@@ -88,40 +94,25 @@ player=default</link>
 <item>
 <title>Nethra TV (Sri Lanka)</title>
 <link>http://dammikartmp.tulix.tv/slrc2/slrc2/playlist.m3u8</link>
-<thumbnail>http://dl.dropboxusercontent.com/s/eezym36y4dfeku9/ttn.png</thumbnail>
+<thumbnail>https://lh5.googleusercontent.com/-jYXQRrGJHDw/VKgxaHgCrEI/AAAAAAAAAV0/3PE9sAtbkw8/w425-h134-no/nethratv.png</thumbnail>
 </item>
 
 <item>
-<title>Wellness TV</title>
-<link>rtmp://cp.akamain.info/nonitv1//nonitv1 swfUrl=http://live.akamain.info/v1/_jwplayer-files/jwplayer.flash.swf pageUrl=http://live.akamain.info/v1/nonitv/index.html/
-player=default</link>
-<thumbnail>https://lh6.googleusercontent.com/-giIS0TMMuaQ/UulXggdcVCI/AAAAAAAAARw/VUJEFeywwko/w425-h134-no/wellnesstv.png</thumbnail>
-</item>
-
-<item>
-<title>Super TV</title>
-<link>rtmp://supertv.airdesigntechnology.com/supertv/supertv.stream swfUrl=http://www.livewebcast.in/flowplayer/flowplayer.commercial-3.2.16.swf pageUrl=http://www.airdesigntechnology.com/supertv/live/
-player=default</link>
-<thumbnail>https://lh4.googleusercontent.com/-5xdPGUoCghg/UVWMoSPrSBI/AAAAAAAAAJI/hta_WYlJR-0/w425-h134-no/supertv.png</thumbnail>
-</item>
-
-<item>
-<title>Ohm TV</title>
-<link>rtmp://livestream.5centscdn.com/ohmtvvxtv//08b3851f6821f4dab6ce2bc4a429ddfe.sdp swfurl=http://emea.5centscdn.com/jw/player.swf pageUrl=http://athavannews.com/?page_id=139560/
-player=default</link>
-<thumbnail>https://lh4.googleusercontent.com/-EviOCTcK7dE/Usxrv2UuF3I/AAAAAAAAANs/y8O_aTeJkAo/w425-h134-no/shalinitv.png</thumbnail>
-</item>
-
-<item>
-<title>Thanthi TV News</title>
+<title>Thanthi TV (News)</title>
 <link>http://edge.purplestream.com/live/ttv/amlst:dttv/playlist.m3u8</link>
-<thumbnail>http://dl.dropboxusercontent.com/s/eezym36y4dfeku9/ttn.png</thumbnail>
+<thumbnail>https://lh5.googleusercontent.com/-iNd_ySxwMHs/UTUtq4w20vI/AAAAAAAAAGE/EGT6ycgbmBU/w425-h134-no/thanthitv.png</thumbnail>
 </item>
 
 <item>
-<title>Puthiya Thalaimurai</title>
+<title>News 7 Tamil</title>
+<link>http://d3ckekzltx4vtl.cloudfront.net/ns7org/smil:ns7.smil/playlist.m3u8</link>
+<thumbnail>https://lh5.googleusercontent.com/-4ssv-fvgs2s/VKgyodVxj_I/AAAAAAAAAWQ/0gSx4FZsJGM/w425-h134-no/news7.png</thumbnail>
+</item>
+
+<item>
+<title>Puthiya Thalaimurai (News)</title>
 <link>http://newgenlive-lh.akamaihd.net/i/ptmng1_1@141316/master.m3u8</link>
-<thumbnail>http://dl.dropboxusercontent.com/s/eezym36y4dfeku9/ttn.png</thumbnail>
+<thumbnail>https://lh4.googleusercontent.com/-McpiYO9go5w/UTUtnJRwU1I/AAAAAAAAAE4/nMktThgVLr0/w425-h134-no/puthiyathalaimurai.png</thumbnail>
 </item>
 
 <item>
@@ -145,9 +136,30 @@ player=default</link>
 </item>
 
 <item>
+<title>Ohm TV</title>
+<link>rtmp://livestream.5centscdn.com/ohmtvvxtv//08b3851f6821f4dab6ce2bc4a429ddfe.sdp swfurl=http://emea.5centscdn.com/jw/player.swf pageUrl=http://athavannews.com/?page_id=139560/
+player=default</link>
+<thumbnail>https://lh4.googleusercontent.com/-EviOCTcK7dE/Usxrv2UuF3I/AAAAAAAAANs/y8O_aTeJkAo/w425-h134-no/shalinitv.png</thumbnail>
+</item>
+
+<item>
 <title>Arra TV</title>
 <link>http://edge.purplestream.com/live/arramedia/amlst:arratv/playlist.m3u8</link>
-<thumbnail>http://dl.dropboxusercontent.com/s/eezym36y4dfeku9/ttn.png</thumbnail>
+<thumbnail>https://lh4.googleusercontent.com/akswamkMJ4oA6bC508W1V8nbgsCpxQIM5B4t1xn3s08=w425-h134-no</thumbnail>
+</item>
+
+<item>
+<title>Wellness TV</title>
+<link>rtmp://cp.akamain.info/nonitv1//nonitv1 swfUrl=http://live.akamain.info/v1/_jwplayer-files/jwplayer.flash.swf pageUrl=http://live.akamain.info/v1/nonitv/index.html/
+player=default</link>
+<thumbnail>https://lh6.googleusercontent.com/-giIS0TMMuaQ/UulXggdcVCI/AAAAAAAAARw/VUJEFeywwko/w425-h134-no/wellnesstv.png</thumbnail>
+</item>
+
+<item>
+<title>Super TV</title>
+<link>rtmp://supertv.airdesigntechnology.com/supertv/supertv.stream swfUrl=http://www.livewebcast.in/flowplayer/flowplayer.commercial-3.2.16.swf pageUrl=http://www.airdesigntechnology.com/supertv/live/
+player=default</link>
+<thumbnail>https://lh4.googleusercontent.com/-5xdPGUoCghg/UVWMoSPrSBI/AAAAAAAAAJI/hta_WYlJR-0/w425-h134-no/supertv.png</thumbnail>
 </item>
 
 
