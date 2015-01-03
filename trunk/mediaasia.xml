@@ -136,6 +136,12 @@ player=default</link>
 </item>
 
 <item>
+<title>Moon TV</title>
+<link>http://stream.mslive.co.in:1973/live/gmoon/playlist.m3u8</link>
+<thumbnail>https://lh3.googleusercontent.com/-FzxPt6pxEH8/UTUtiYV2q6I/AAAAAAAAADw/soZX2gag5Uk/w425-h134-no/moontv.png</thumbnail>
+</item>
+
+<item>
 <title>Ohm TV</title>
 <link>rtmp://livestream.5centscdn.com/ohmtvvxtv//08b3851f6821f4dab6ce2bc4a429ddfe.sdp swfurl=http://emea.5centscdn.com/jw/player.swf pageUrl=http://athavannews.com/?page_id=139560/
 player=default</link>
