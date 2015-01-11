@@ -16,12 +16,6 @@
 </item>
 
 <item>
-<title>TTN Tamil TV</title>
-<link>http://37.59.17.222:1935/tamilmedia/ttn_newstream.stream_360p/playlist.m3u8</link>
-<thumbnail>https://lh6.googleusercontent.com/-DE3S0ZIMiYA/VKgwUi5NKzI/AAAAAAAAAVI/497Hly1iTrU/w425-h134-no/ttn.png</thumbnail>
-</item>
-
-<item>
 <title>Athavan TV</title>
 <link>rtmp://livestream.5centscdn.com/athavantvvxtv//be597217ee55a93f3ca91ed5174a5a34.sdp swfUrl=http://emea.5centscdn.com/jw/player.swf pageUrl=http://athavantv.com/athavantv/</link>
 <thumbnail>https://lh3.googleusercontent.com/pMWj0xSGOnW9cjj3_qB5E4FIrGe9U8970q4_pbowpXs=w678-h213-p-no</thumbnail>
