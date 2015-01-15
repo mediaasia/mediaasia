@@ -34,12 +34,6 @@
 </item>
 
 <item>
-<title>Makkal TV</title>
-<link>rtmp://127.0.0.1:61238/live/gtcdnfreedocastmakkalauto_793098 swfUrl=http://cdn.freedocast.com/[[IMPORT]]/d2iwzbhgddzdwl.cloudfront.net/resources/player/jwflvplayer/6/jwplayer-octoshape-mediaprovider.swf pageUrl=http://www.livelk.com/2014/10/makkal-tv-live.html</link>
-<thumbnail>https://lh5.googleusercontent.com/-zeg45HyMASk/UTUtgn5jAII/AAAAAAAAADU/SwdIlByLx4c/w425-h134-no/makkaltv.png</thumbnail>
-</item>
-
-<item>
 <title>DAN Yaarl Oli</title>
 <link>http://nimlive1.giniko.com/danyarloli/danyarloli.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMTUgNzoyMTo0MiBQTSZoYXNoX3ZhbHVlPXpWTFpEaFNZQ3pnVU5lKzhQMWxIWHc9PSZ2YWxpZG1pbnV0ZXM9NjA=</link>
 <thumbnail>https://lh3.googleusercontent.com/-LcH7yyVOKgE/UV9FYwpwF4I/AAAAAAAAAKI/1Ds2Nw_zKPE/w425-h134-no/danyaarloli.png</thumbnail>
@@ -55,12 +49,6 @@
 <title>Dheeran TV</title>
 <link>http://edge.purplestream.com/live/dhtv/dheetv_1/playlist.m3u8</link>
 <thumbnail>https://lh4.googleusercontent.com/-y1H3zr30650/UXcDq-1PGYI/AAAAAAAAALE/4RbymP8TSxQ/w425-h134-no/dheerantv.png</thumbnail>
-</item>
-
-<item>
-<title>Murasu TV</title>
-<link>rtmp://127.0.0.1:61238/live/gtcdnfreedocastmurasuauto_717854 swfUrl=http://cdn.freedocast.com/[[IMPORT]]/d2iwzbhgddzdwl.cloudfront.net/resources/player/jwflvplayer/6/jwplayer-octoshape-mediaprovider.swf pageUrl=http://www.livelk.com/2014/09/watch-murasu-tv-live.html</link>
-<thumbnail>https://lh5.googleusercontent.com/-zeg45HyMASk/UTUtgn5jAII/AAAAAAAAADU/SwdIlByLx4c/w425-h134-no/makkaltv.png</thumbnail>
 </item>
 
 <item>
