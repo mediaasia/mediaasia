@@ -71,6 +71,12 @@ player=default</link>
 </item>
 
 <item>
+<title>Boss TV</title>
+<link>rtmp://bosstv1.chennaistream.net/bosstv swfUrl=http://www.livewebcast.in/flowplayer/flowplayer.rtmp-3.2.12.swf pageUrl=http://www.livewebcast.in/bosstv/live/</link>
+<thumbnail>http://theboss.in/images/logo.pngg</thumbnail>
+</item>
+
+<item>
 <title>Tamilan TV</title>
 <link>rtmp://38.96.175.192:1943/live/tamilantelevision1 swfUrl=http://www.priwil.com/webplayer/player.swf pageUrl=http://www.tamilantelevision.com/cdn/index.html</link>
 <thumbnail>https://lh6.googleusercontent.com/-8XrENyGeQ2k/UTU2bmeWDqI/AAAAAAAAAH8/xGKbWKv7w44/s425/tamilantv.png</thumbnail>
