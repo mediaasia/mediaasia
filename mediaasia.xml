@@ -23,7 +23,7 @@
 
 <item>
 <title>Athavan TV</title>
-<link>rtmp://livestream.5centscdn.com/athavantvvxtv//be597217ee55a93f3ca91ed5174a5a34.sdp swfUrl=http://emea.5centscdn.com/jw/player.swf pageUrl=http://athavantv.com/athavantv/</link>
+<link>rtmp://livestream.5centscdn.com/athavantvvxtv//347697d21cd084a1796ce3ca18943611.sdp swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://athavantv.com/athavantv/</link>
 <thumbnail>https://lh3.googleusercontent.com/pMWj0xSGOnW9cjj3_qB5E4FIrGe9U8970q4_pbowpXs=w678-h213-p-no</thumbnail>
 </item>
 
@@ -34,9 +34,9 @@
 </item>
 
 <item>
-<title>DAN Yaarl Oli</title>
-<link>http://nimlive1.giniko.com/danyarloli/danyarloli.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zLzIwMTUgNzoyMTo0MiBQTSZoYXNoX3ZhbHVlPXpWTFpEaFNZQ3pnVU5lKzhQMWxIWHc9PSZ2YWxpZG1pbnV0ZXM9NjA=</link>
-<thumbnail>https://lh3.googleusercontent.com/-LcH7yyVOKgE/UV9FYwpwF4I/AAAAAAAAAKI/1Ds2Nw_zKPE/w425-h134-no/danyaarloli.png</thumbnail>
+<title>Engada TV Canada</title>
+<link>rtmp://livestream.5centscdn.com/engadatv/0943f8da9e4ed54570ffa034947dc53a.sdp swfUrl=http://engadatv.com/player/player.swf pageUrl=http://engadatv.com/</link>
+<thumbnail>https://lh5.googleusercontent.com/-neVu0-Un6eo/UsxrsjQ0k7I/AAAAAAAAAMs/2sAvdp6w-cQ/w425-h134-no/eettv.png</thumbnail>
 </item>
 
 <item>
@@ -49,6 +49,12 @@
 <title>Dheeran TV</title>
 <link>http://edge.purplestream.com/live/dhtv/dheetv_1/playlist.m3u8</link>
 <thumbnail>https://lh4.googleusercontent.com/-y1H3zr30650/UXcDq-1PGYI/AAAAAAAAALE/4RbymP8TSxQ/w425-h134-no/dheerantv.png</thumbnail>
+</item>
+
+<item>
+<title>Krishna TV Madurai</title>
+<link>rtmp://krishnatv.livewebcast.in/krishnatv/krishnatv.stream swfUrl=http://www.livewebcast.in/flowplayer/flowplayer.commercial-3.2.16.swf pageUrl=http://www.krishnatvmdu.com/</link>
+<thumbnail>https://lh3.googleusercontent.com/pMWj0xSGOnW9cjj3_qB5E4FIrGe9U8970q4_pbowpXs=w678-h213-p-no</thumbnail>
 </item>
 
 <item>
@@ -68,12 +74,6 @@
 <link>rtmp://live.wmncdn.net/shalini//7bb6687be4c09693ced378f17133c850.sdp swfUrl=http://player-apac-sing.webmobilive.com/player/liveplayer.swf pageUrl=http://shalinitv.com/
 player=default</link>
 <thumbnail>https://lh4.googleusercontent.com/-EviOCTcK7dE/Usxrv2UuF3I/AAAAAAAAANs/y8O_aTeJkAo/w425-h134-no/shalinitv.png</thumbnail>
-</item>
-
-<item>
-<title>Boss TV</title>
-<link>rtmp://bosstv1.chennaistream.net/bosstv swfUrl=http://www.livewebcast.in/flowplayer/flowplayer.rtmp-3.2.12.swf pageUrl=http://www.livewebcast.in/bosstv/live/</link>
-<thumbnail>http://theboss.in/images/logo.pngg</thumbnail>
 </item>
 
 <item>
@@ -151,6 +151,12 @@ player=default</link>
 <title>Moon TV</title>
 <link>http://stream.mslive.co.in:1973/live/gmoon/playlist.m3u8</link>
 <thumbnail>https://lh3.googleusercontent.com/-FzxPt6pxEH8/UTUtiYV2q6I/AAAAAAAAADw/soZX2gag5Uk/w425-h134-no/moontv.png</thumbnail>
+</item>
+
+<item>
+<title>Omkara TV</title>
+<link>http://5.39.73.189:1935/omkara/omkara.stream/playlist.m3u8</link>
+<thumbnail>https://lh6.googleusercontent.com/-cW6JIFFRXp8/VKg0OmmBBKI/AAAAAAAAAWg/g4ad7ysYyTg/w425-h134-no/puthuyugamtv.png</thumbnail>
 </item>
 
 <item>
