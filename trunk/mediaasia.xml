@@ -30,7 +30,7 @@
 <item>
 <title>LankaSri TV</title>
 <link>rtmp://livestream.5centscdn.com/lankasritest/c4283d4ad045eea5fcd4cf555bdabd2e.sdp swfUrl=http://flashplayer.5centscdn.com/5centscdn/GrindPlayer.swf pageUrl=http://www.lankasri.tv</link>
-<thumbnail>https://lh5.googleusercontent.com/gd_MUYT-L4oLKNPqMTydhayhiUAVPrAgkdBwwpPKeBQ=w657-h207-p-no</thumbnail>
+<thumbnail>https://lh4.googleusercontent.com/-vJOlMBvwQ-M/VPUHqbgjFCI/AAAAAAAAAXc/1yV4ki9Ewpo/w425-h134-no/lankasritv.png</thumbnail>
 </item>
 
 <item>
@@ -42,7 +42,7 @@
 <item>
 <title>Engada TV Canada</title>
 <link>rtmp://livestream.5centscdn.com/engadatv/0943f8da9e4ed54570ffa034947dc53a.sdp swfUrl=http://engadatv.com/player/player.swf pageUrl=http://engadatv.com/</link>
-<thumbnail>https://lh5.googleusercontent.com/-neVu0-Un6eo/UsxrsjQ0k7I/AAAAAAAAAMs/2sAvdp6w-cQ/w425-h134-no/eettv.png</thumbnail>
+<thumbnail>https://lh4.googleusercontent.com/-xLifrjS-TIk/VPUHqW5vBrI/AAAAAAAAAXg/gq2_WDlREH8/w425-h134-no/engadatv.png</thumbnail>
 </item>
 
 <item>
@@ -54,7 +54,7 @@
 <item>
 <title>Krishna TV Madurai</title>
 <link>rtmp://krishnatv.livewebcast.in/krishnatv/krishnatv.stream swfUrl=http://www.livewebcast.in/flowplayer/flowplayer.commercial-3.2.16.swf pageUrl=http://www.krishnatvmdu.com/</link>
-<thumbnail>https://lh3.googleusercontent.com/pMWj0xSGOnW9cjj3_qB5E4FIrGe9U8970q4_pbowpXs=w678-h213-p-no</thumbnail>
+<thumbnail>https://lh5.googleusercontent.com/-Ajx4riDxz8I/VPUIjr3Hu-I/AAAAAAAAAX0/Dg1jubbRVXc/w425-h134-no/krishnatvmadurai.png</thumbnail>
 </item>
 
 <item>
@@ -93,7 +93,13 @@ player=default</link>
 <title>Jil Jil TV</title>
 <link>rtmp://emedias.com/jiljiltv/live1 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://jiljiltv.com/
 player=default</link>
-<thumbnail>https://lh6.googleusercontent.com/hofcjqEjEewgAS56RQCOtAjby3zPIIUQL6d7HX7Hm9E=w678-h213-p-no</thumbnail>
+<thumbnail>https://lh4.googleusercontent.com/-oWBAD9uVWto/VJPuJj0w_FI/AAAAAAAAAUo/4gdhdXAxK8Y/w425-h134-no/jiljiltv.png</thumbnail>
+</item>
+
+<item>
+<title>Vimbam TV</title>
+<link>rtmp://91.219.43.148:1935/vimbamtv/vimbamtv swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.vimbamtv.com</link>
+<thumbnail>https://lh4.googleusercontent.com/-wEEJdwz6q0o/VPULiVS7KtI/AAAAAAAAAYM/uGCM7sm31rE/w425-h134-no/vimbamtv.png</thumbnail>
 </item>
 
 <item>
@@ -156,20 +162,20 @@ player=default</link>
 <item>
 <title>Omkara TV</title>
 <link>http://5.39.73.189:1935/omkara/omkara.stream/playlist.m3u8</link>
-<thumbnail>https://lh6.googleusercontent.com/-cW6JIFFRXp8/VKg0OmmBBKI/AAAAAAAAAWg/g4ad7ysYyTg/w425-h134-no/puthuyugamtv.png</thumbnail>
+<thumbnail>https://lh5.googleusercontent.com/-5eVgeq7y4To/VPUIjn-_KkI/AAAAAAAAAX4/NpM13zEqRrQ/w425-h134-no/omkaratv.png</thumbnail>
 </item>
 
 <item>
 <title>Ohm TV</title>
 <link>rtmp://livestream.5centscdn.com/ohmtvvxtv//08b3851f6821f4dab6ce2bc4a429ddfe.sdp swfurl=http://emea.5centscdn.com/jw/player.swf pageUrl=http://athavannews.com/?page_id=139560/
 player=default</link>
-<thumbnail>https://lh4.googleusercontent.com/-EviOCTcK7dE/Usxrv2UuF3I/AAAAAAAAANs/y8O_aTeJkAo/w425-h134-no/shalinitv.png</thumbnail>
+<thumbnail>https://lh6.googleusercontent.com/-5O6KRXH4ftc/VJPv0cbfeCI/AAAAAAAAAUw/SZfKxcfDIPk/w425-h134-no/ohmtv.png</thumbnail>
 </item>
 
 <item>
 <title>Arra TV</title>
 <link>http://edge.purplestream.com/live/arramedia/amlst:arratv/playlist.m3u8</link>
-<thumbnail>https://lh4.googleusercontent.com/akswamkMJ4oA6bC508W1V8nbgsCpxQIM5B4t1xn3s08=w425-h134-no</thumbnail>
+<thumbnail>https://lh5.googleusercontent.com/-6mXTaWWDIzM/Usxw_cKtUnI/AAAAAAAAAOw/1uw4kIVsfvU/w425-h134-no/arratv.png</thumbnail>
 </item>
 
 <item>
