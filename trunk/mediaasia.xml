@@ -28,6 +28,12 @@
 </item>
 
 <item>
+<title>LankaSri TV</title>
+<link>rtmp://livestream.5centscdn.com/lankasritest/c4283d4ad045eea5fcd4cf555bdabd2e.sdp swfUrl=http://flashplayer.5centscdn.com/5centscdn/GrindPlayer.swf pageUrl=http://www.lankasri.tv</link>
+<thumbnail>https://lh5.googleusercontent.com/gd_MUYT-L4oLKNPqMTydhayhiUAVPrAgkdBwwpPKeBQ=w657-h207-p-no</thumbnail>
+</item>
+
+<item>
 <title>EET TV Canada</title>
 <link>rtmp://37.59.17.222/live_ca/eettv swfUrl=http://eettv.com/player.swf pageUrl=http://www.eettv.com/</link>
 <thumbnail>https://lh5.googleusercontent.com/-neVu0-Un6eo/UsxrsjQ0k7I/AAAAAAAAAMs/2sAvdp6w-cQ/w425-h134-no/eettv.png</thumbnail>
