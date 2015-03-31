@@ -110,6 +110,12 @@ player=default</link>
 </item>
 
 <item>
+<title>Super TV</title>
+<link>http://edge.purplestream.com/live/SuperTV/amlst:supertv/playlist.m3u8</link>
+<thumbnail>https://lh4.googleusercontent.com/-5xdPGUoCghg/UVWMoSPrSBI/AAAAAAAAAJI/hta_WYlJR-0/w425-h134-no/supertv.png</thumbnail>
+</item>
+
+<item>
 <title>Vasantham TV (Sri Lanka)</title>
 <link>rtmp://mediacp2.comcities.com/itn-vasantham/itn-vasantham swfUrl=http://cdn.itnlanka.com/vasanthamtv.swf pageUrl=http://vasantham.lk/
 player=default</link>
@@ -192,12 +198,6 @@ player=default</link>
 <thumbnail>https://lh6.googleusercontent.com/-giIS0TMMuaQ/UulXggdcVCI/AAAAAAAAARw/VUJEFeywwko/w425-h134-no/wellnesstv.png</thumbnail>
 </item>
 
-<item>
-<title>Super TV</title>
-<link>rtmp://supertv.airdesigntechnology.com/supertv/supertv.stream swfUrl=http://www.livewebcast.in/flowplayer/flowplayer.commercial-3.2.16.swf pageUrl=http://www.airdesigntechnology.com/supertv/live/
-player=default</link>
-<thumbnail>https://lh4.googleusercontent.com/-5xdPGUoCghg/UVWMoSPrSBI/AAAAAAAAAJI/hta_WYlJR-0/w425-h134-no/supertv.png</thumbnail>
-</item>
 
 
 
