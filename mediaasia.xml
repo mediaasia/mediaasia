@@ -40,6 +40,12 @@
 </item>
 
 <item>
+<title>Masala TV</title>
+<link>tmp://188.166.127.249/masalatv/myStream swfUrl=http://www.longtailvideo.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.livetvchannelsfree.com/masalatv.html</link>
+<thumbnail>https://lh4.googleusercontent.com/-vJOlMBvwQ-M/VPUHqbgjFCI/AAAAAAAAAXc/1yV4ki9Ewpo/w425-h134-no/lankasritv.png</thumbnail>
+</item>
+
+<item>
 <title>EET TV Canada</title>
 <link>rtmp://37.59.17.222/live_ca/eettv swfUrl=http://eettv.com/player.swf pageUrl=http://www.eettv.com/</link>
 <thumbnail>https://lh5.googleusercontent.com/-neVu0-Un6eo/UsxrsjQ0k7I/AAAAAAAAAMs/2sAvdp6w-cQ/w425-h134-no/eettv.png</thumbnail>
